@@ -1,0 +1,21 @@
+{
+  "dibuat": "2026-10-21T14:57:52",
+  "cutoff": "2026-09-30",
+  "koleksi": "regulasi-kepegawaian-v3",
+  "n_log_berkonteks": 795,
+  "n_populasi": 461,
+  "n_sampel": 80,
+  "arms": [
+    "Baseline",
+    "Treatment",
+    "X1",
+    "X2",
+    "F1",
+    "R1",
+    "R2",
+    "R3"
+  ],
+  "n_kandidat_total": 1298,
+  "median_kandidat_per_kueri": 16.0,
+  "note": "Query texts are not released (users' questions to the chatbot; only aggregate statistics are reported). Candidates are pooled top-5 articles of the listed arms; rank_<arm> is the position in that arm's top-5."
+}

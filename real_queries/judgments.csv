@@ -1,0 +1,1299 @@
+query_code,candidate_code,article,judge_relevance,claude_relevance,author_relevance,rank_Baseline,rank_Treatment,rank_X1,rank_X2,rank_F1,rank_R1,rank_R2,rank_R3
+Q-001,Q-001-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,,,,,5,,,,,
+Q-001,Q-001-02,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 1",0,,,,,,,,,4,
+Q-001,Q-001-03,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,,,,,4,,,,,
+Q-001,Q-001-04,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 12",0,,,,,,,,,5,
+Q-001,Q-001-05,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,3,
+Q-001,Q-001-06,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 11",0,,,,,,,,5,2,1
+Q-001,Q-001-07,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI REPUBLIK INDONESIA Nomor 20 Tahun 2025, Pasal I",0,,,,,,,,1,,
+Q-001,Q-001-08,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,,,,,3,,,,,
+Q-001,Q-001-09,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,2,,,,,,
+Q-001,Q-001-10,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",0,,,,,,3,3,,,2
+Q-001,Q-001-11,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 9",0,,,3,,,1,1,,,3
+Q-001,Q-001-12,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 19 Tahun 2025,0,,,,1,1,2,4,,,
+Q-001,Q-001-13,"Undang-Undang Nomor 20 Tahun 2009, Pasal 31",0,,,5,,,4,2,,,
+Q-001,Q-001-14,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,,,,5,5,,,
+Q-001,Q-001-15,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 11",0,,,4,,,,,,,
+Q-001,Q-001-16,"Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 19 Tahun 2025, Pasal 7",0,,,,,,,,,1,
+Q-001,Q-001-17,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 8C",0,,,,,,,,2,,
+Q-001,Q-001-18,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,,,5
+Q-001,Q-001-19,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,0,,,,4,2,,,,,
+Q-001,Q-001-20,Surat Edaran Menteri Dalam Negeri Republik Indonesia Nomor 800.1.5/3349/SJ Tahun 2026,0,,,,3,,,,,,
+Q-001,Q-001-21,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,4,,
+Q-001,Q-001-22,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 30",0,,,2,,,,,,,4
+Q-001,Q-001-23,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,5,,,,,,
+Q-001,Q-001-24,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,1,,,,,,,
+Q-001,Q-001-25,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,3,,
+Q-002,Q-002-01,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,,,,,,5
+Q-002,Q-002-02,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,3,5,,,,,
+Q-002,Q-002-03,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,1,2,,,,,
+Q-002,Q-002-04,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,2,,,2,,,,,,,2
+Q-002,Q-002-05,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,2,,,1,,,,,,,3
+Q-002,Q-002-06,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,2,1,,,,,
+Q-002,Q-002-07,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 2",0,,,,,,,,5,,
+Q-002,Q-002-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 6",1,,,3,,,1,1,3,3,
+Q-002,Q-002-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 17",2,,,5,,,3,3,2,2,
+Q-002,Q-002-10,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 19",1,,,4,,,2,2,1,1,
+Q-002,Q-002-11,SURAT EDARAN KEPALA BADAN KEPEGAWAIAN NEGARA Nomor 1 Tahun 2023,0,,,,,,4,4,,,
+Q-002,Q-002-12,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 93",1,,,,,3,,,,,
+Q-002,Q-002-13,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,,,,5,,5,5,,,
+Q-002,Q-002-14,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 8",0,,,,,,,,,,1
+Q-002,Q-002-15,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,,,,,,4
+Q-002,Q-002-16,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,4,4,,,,,
+Q-002,Q-002-17,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 309",0,,,,,,,,4,,
+Q-003,Q-003-01,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,1,,,4,,,3,4,,,5
+Q-003,Q-003-02,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 33",0,,,5,,,5,5,,,
+Q-003,Q-003-03,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 28",0,,,,5,,,,,,
+Q-003,Q-003-04,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,,,5,,,,,
+Q-003,Q-003-05,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,2,3,2,2,2,1,1,2
+Q-003,Q-003-06,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 30",0,,,3,1,3,4,3,,,4
+Q-003,Q-003-07,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,,,4,,,,,
+Q-003,Q-003-08,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 29",0,,,,4,,,,,,
+Q-003,Q-003-09,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,1,2,1,1,1,2,2,1
+Q-003,Q-003-10,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 10",0,,,,,,,,,,3
+Q-004,Q-004-01,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 30",0,0,,,,,,,,1,
+Q-004,Q-004-02,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 45",0,1,,,,,5,4,4,,
+Q-004,Q-004-03,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 15",0,0,,,,,,,2,2,
+Q-004,Q-004-04,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 1",1,1,,4,2,4,,,1,,
+Q-004,Q-004-05,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 20",1,0,,,,5,,,,,1
+Q-004,Q-004-06,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 2",0,0,,,1,3,4,5,,,4
+Q-004,Q-004-07,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 27",2,2,,5,,,1,1,,,
+Q-004,Q-004-08,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 9",1,1,,2,4,2,3,3,3,4,3
+Q-004,Q-004-09,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 11",0,0,,,,,,,,5,
+Q-004,Q-004-10,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 7",0,0,,,,,,,,3,
+Q-004,Q-004-11,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,0,,,,,,,,,5
+Q-004,Q-004-12,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 1",1,0,,,3,,,,,,
+Q-004,Q-004-13,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",1,1,,1,5,1,2,2,5,,2
+Q-004,Q-004-14,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 14",0,0,,3,,,,,,,
+Q-005,Q-005-01,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,0,0,,1,2,,,1,1,
+Q-005,Q-005-02,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 1",0,0,0,,,,,,2,,
+Q-005,Q-005-03,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 33",1,1,0,4,4,5,1,2,,,
+Q-005,Q-005-04,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 17",0,0,0,,,,,,,2,
+Q-005,Q-005-05,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 40",0,0,0,,,,,,5,,
+Q-005,Q-005-06,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 30",1,2,2,,2,,3,4,,,4
+Q-005,Q-005-07,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 11",0,0,0,,3,,,,,,
+Q-005,Q-005-08,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 44",0,0,0,,,,,,,,3
+Q-005,Q-005-09,"Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022, Pasal 1",0,0,0,,,,,,3,,
+Q-005,Q-005-10,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 1",0,0,0,,,,,,,5,
+Q-005,Q-005-11,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 16",0,0,0,5,,3,,,4,3,
+Q-005,Q-005-12,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,2,1,,,,,5,,,2
+Q-005,Q-005-13,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,0,0,,,,,,,4,
+Q-005,Q-005-14,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 8",0,0,0,2,,1,,,,,
+Q-005,Q-005-15,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,2,1,,,,,,,,5
+Q-005,Q-005-16,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,2,1,3,,,4,3,,,1
+Q-005,Q-005-17,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,2,1,,5,4,5,,,,
+Q-005,Q-005-18,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,2,1,1,,,2,1,,,
+Q-006,Q-006-01,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 9",0,,,1,2,2,3,2,,,2
+Q-006,Q-006-02,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 27",0,,,,,5,,,,,
+Q-006,Q-006-03,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,,,,,,,,,,5
+Q-006,Q-006-04,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 9",1,,,4,,,,5,,,
+Q-006,Q-006-05,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",0,,,2,3,3,1,1,,,3
+Q-006,Q-006-06,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 1",0,,,,5,,4,4,,,
+Q-006,Q-006-07,Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022,0,,,5,,,5,,,,
+Q-006,Q-006-08,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 20",0,,,3,1,1,2,3,1,1,1
+Q-006,Q-006-09,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 2",0,,,,4,,,,,,
+Q-006,Q-006-10,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 14",0,,,,,,,,,,4
+Q-006,Q-006-11,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 11",0,,,,,4,,,,,
+Q-007,Q-007-01,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 8",0,,,3,,1,,,,,2
+Q-007,Q-007-02,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 27",0,,,,,,4,1,,,4
+Q-007,Q-007-03,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 341",0,,,,,,,,,4,
+Q-007,Q-007-04,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",0,,,,4,,,2,,,
+Q-007,Q-007-05,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,,5,,,,
+Q-007,Q-007-06,Peraturan Badan Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,2,,
+Q-007,Q-007-07,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 93",0,,,,,,,,,2,
+Q-007,Q-007-08,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,0,,,,3,,,,,,
+Q-007,Q-007-09,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 350",0,,,,,,,,,5,
+Q-007,Q-007-10,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 11",0,,,,,,,,,3,
+Q-007,Q-007-11,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 9",0,,,,5,,,,,,
+Q-007,Q-007-12,Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022,0,,,,,,,,4,,
+Q-007,Q-007-13,Peraturan Badan Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,3,,
+Q-007,Q-007-14,Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022,0,,,5,,,,,,,
+Q-007,Q-007-15,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,,2,4,,,
+Q-007,Q-007-16,Surat Edaran Bupati Sumenep Nomor 10 Tahun 2026,0,,,,,,,,5,,
+Q-007,Q-007-17,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,,3,,,,5
+Q-007,Q-007-18,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 10",0,,,2,,2,,,,,
+Q-007,Q-007-19,Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022,0,,,1,,3,,,,,1
+Q-007,Q-007-20,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 1",0,,,,1,,,5,,,
+Q-007,Q-007-21,Surat Edaran Bupati Sumenep Nomor 10 Tahun 2026,0,,,,2,,,,,,
+Q-007,Q-007-22,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021, Pasal 39",0,,,4,,,,,1,1,
+Q-007,Q-007-23,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 19",0,,,,,,,,,,3
+Q-007,Q-007-24,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,,1,3,,,
+Q-007,Q-007-25,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,0,,,,,5,,,,,
+Q-007,Q-007-26,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 13",0,,,,,4,,,,,
+Q-008,Q-008-01,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 4 Tahun 2025, Pasal 2",2,,,1,2,1,1,1,1,1,1
+Q-008,Q-008-02,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 55",1,,,,1,2,2,2,,,
+Q-008,Q-008-03,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,0,,,,3,,,,,,
+Q-008,Q-008-04,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,,,4,,,,,
+Q-008,Q-008-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 15",0,,,,,,,,,,4
+Q-008,Q-008-06,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 38",0,,,2,,,5,,,,
+Q-008,Q-008-07,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 2 Tahun 2025, Pasal 1",1,,,,5,,,,,,
+Q-008,Q-008-08,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 7 Tahun 2023, Pasal 2",0,,,,,,,,,,3
+Q-008,Q-008-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 2 Tahun 2025, Pasal 2",0,,,3,,,,5,,,
+Q-008,Q-008-10,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 14",0,,,,,,,,,,5
+Q-008,Q-008-11,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 33",0,,,,,,3,3,,,2
+Q-008,Q-008-12,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 19",0,,,5,,5,4,4,,,
+Q-008,Q-008-13,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,4,,,,,,,
+Q-008,Q-008-14,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 2 Tahun 2025, Pasal 3",0,,,,4,3,,,,,
+Q-009,Q-009-01,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 4",1,1,0,,,,,,,,1
+Q-009,Q-009-02,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022, Pasal 1",0,1,1,,5,,,,,,
+Q-009,Q-009-03,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 5",1,1,0,4,,,2,2,,,4
+Q-009,Q-009-04,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 1",1,2,1,,1,4,,,,,
+Q-009,Q-009-05,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,2,2,1,,,,3,5,,,
+Q-009,Q-009-06,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,2,2,1,,3,,4,,,,
+Q-009,Q-009-07,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,0,0,0,,4,,,,,,
+Q-009,Q-009-08,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,2,2,1,2,,1,,4,,,5
+Q-009,Q-009-09,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,2,2,1,,,5,,,1,1,
+Q-009,Q-009-10,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,2,2,1,5,,,,,,,
+Q-009,Q-009-11,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,2,2,1,,,,5,,,,3
+Q-009,Q-009-12,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 8",1,1,0,3,,2,1,1,,,
+Q-009,Q-009-13,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 1",0,1,1,,2,,,,,,
+Q-009,Q-009-14,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,2,2,1,,,,,,,,2
+Q-009,Q-009-15,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 7",1,2,1,1,,3,,3,,,
+Q-010,Q-010-01,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 341",1,,,,,4,,,,,
+Q-010,Q-010-02,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 93",1,,,,,3,,,,,
+Q-010,Q-010-03,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,2,,,2,,,2,2,,2,5
+Q-010,Q-010-04,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,1,1,,,,,
+Q-010,Q-010-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 14",1,,,,,,,,5,,
+Q-010,Q-010-06,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,2,,,,,,4,5,,,
+Q-010,Q-010-07,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,3,,,,,,
+Q-010,Q-010-08,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,2,,,,,,,,,,1
+Q-010,Q-010-09,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,,,,,,5,
+Q-010,Q-010-10,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,2,,,,,,,,,4,
+Q-010,Q-010-11,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,2,,,1,,,1,1,1,1,4
+Q-010,Q-010-12,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,5,,,,,,
+Q-010,Q-010-13,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 336",1,,,,,,,,2,,
+Q-010,Q-010-14,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,,,,3,3,,3,
+Q-010,Q-010-15,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 17",1,,,5,,,,,,,
+Q-010,Q-010-16,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 8",0,,,,,,,,,,3
+Q-010,Q-010-17,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 19",1,,,4,,,,,,,
+Q-010,Q-010-18,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,2,,,,,,,,,,2
+Q-010,Q-010-19,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 2",0,,,,,,,,4,,
+Q-010,Q-010-20,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,,,5,,,,,
+Q-010,Q-010-21,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 6",2,,,3,,,,,,,
+Q-010,Q-010-22,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,0,,,,4,,,,,,
+Q-010,Q-010-23,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 309",0,,,,,,,,3,,
+Q-010,Q-010-24,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,2,2,,,,,
+Q-010,Q-010-25,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,1,,,,,,5,4,,,
+Q-011,Q-011-01,Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022,0,,,,,,,,2,2,
+Q-011,Q-011-02,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 41",0,,,3,,3,4,3,,,
+Q-011,Q-011-03,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 39",0,,,5,,,,,,,
+Q-011,Q-011-04,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 4",1,,,,2,,,,,,2
+Q-011,Q-011-05,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 6",0,,,,,5,,,,,
+Q-011,Q-011-06,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 40",0,,,2,3,2,1,1,,,4
+Q-011,Q-011-07,Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022,0,,,,,,,,1,1,
+Q-011,Q-011-08,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 26",0,,,,,,,,,,5
+Q-011,Q-011-09,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 7",1,,,,,,5,5,,,
+Q-011,Q-011-10,"Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022, Pasal 22",0,,,,,,,,5,,
+Q-011,Q-011-11,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 21",0,,,,5,,,,,,1
+Q-011,Q-011-12,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,,,,,,,,4,,
+Q-011,Q-011-13,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 1",1,,,4,1,4,3,4,,,
+Q-011,Q-011-14,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 30",0,,,1,4,1,2,2,,,3
+Q-011,Q-011-15,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 3",1,,,,,,,,,3,
+Q-011,Q-011-16,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 47",0,,,,,,,,,4,
+Q-011,Q-011-17,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 1",0,,,,,,,,3,5,
+Q-012,Q-012-01,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 78",1,,,,,3,4,4,,,
+Q-012,Q-012-02,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 76",0,,,,,,,,,,5
+Q-012,Q-012-03,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,3,5,,5,,,4
+Q-012,Q-012-04,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 28",0,,,,4,,,,,,
+Q-012,Q-012-05,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,0,,,,,,,,,2,
+Q-012,Q-012-06,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,1,,,1,2,1,,,,,
+Q-012,Q-012-07,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 152",0,,,,,,,,,,1
+Q-012,Q-012-08,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 29",0,,,,5,,,,,,
+Q-012,Q-012-09,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 40",0,,,3,,,5,2,2,1,
+Q-012,Q-012-10,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,,,,,,3,,
+Q-012,Q-012-11,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,0,,,,,,,,4,4,
+Q-012,Q-012-12,"Peraturan Pemerintah Nomor 17 Tahun 2020, Pasal I",0,,,,,4,2,3,5,5,
+Q-012,Q-012-13,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,,,,,,1,,
+Q-012,Q-012-14,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 13",1,,,,,,3,,,,
+Q-012,Q-012-15,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 11",1,,,5,,,,,,,
+Q-012,Q-012-16,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 27",0,,,2,,,1,1,,,
+Q-012,Q-012-17,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 9",0,,,,,,,,,3,
+Q-012,Q-012-18,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 54",1,,,4,,2,,,,,
+Q-012,Q-012-19,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,1,,,,,,2
+Q-012,Q-012-20,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 1",0,,,,,,,,,,3
+Q-013,Q-013-01,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 55",0,,,,,,5,,,,
+Q-013,Q-013-02,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 2",0,,,,2,,,,,,
+Q-013,Q-013-03,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 1",0,,,,5,,,,,,4
+Q-013,Q-013-04,Keputusan Kepala Badan Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia Kabupaten Sumenep Nomor 188 Tahun 2021,1,,,,,,4,4,,,
+Q-013,Q-013-05,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,,,5,1,1,,5,3,2,
+Q-013,Q-013-06,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 5",0,,,2,,2,,,,,
+Q-013,Q-013-07,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 44",0,,,,,,,,1,,
+Q-013,Q-013-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 18",0,,,,,,,,,,1
+Q-013,Q-013-09,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 1",0,,,,4,,,,,5,
+Q-013,Q-013-10,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 8",0,,,1,,,,,5,3,
+Q-013,Q-013-11,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 3",0,,,,,5,,,,,
+Q-013,Q-013-12,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 21",1,,,,,,3,3,,,2
+Q-013,Q-013-13,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 20",0,,,,,,,,,,3
+Q-013,Q-013-14,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 8",0,,,,,3,,,,,
+Q-013,Q-013-15,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 1",0,,,,3,4,,,2,1,
+Q-013,Q-013-16,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 40",0,,,3,,,,,,4,
+Q-013,Q-013-17,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,1,,,,,,2,2,,,5
+Q-013,Q-013-18,Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022,0,,,,,,,,4,,
+Q-013,Q-013-19,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 17",0,,,4,,,1,1,,,
+Q-014,Q-014-01,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 7",1,,,1,2,1,2,1,2,2,1
+Q-014,Q-014-02,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 81",1,,,,,5,,,,,
+Q-014,Q-014-03,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 1",1,,,,,,,,,,4
+Q-014,Q-014-04,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 20",1,,,,,4,5,,,,
+Q-014,Q-014-05,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 29",1,,,,4,,4,4,,,
+Q-014,Q-014-06,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 19",1,,,,3,,,,4,4,
+Q-014,Q-014-07,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 11",2,,,2,1,2,1,2,1,1,2
+Q-014,Q-014-08,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 41",0,,,5,,,,5,,,
+Q-014,Q-014-09,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,1,,,,,,,,,,5
+Q-014,Q-014-10,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 30",1,,,4,5,3,3,3,3,3,3
+Q-014,Q-014-11,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 28",1,,,3,,,,,,,
+Q-015,Q-015-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,2,,,1,,1,1,1,,,
+Q-015,Q-015-02,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,0,,,,4,,,,,,
+Q-015,Q-015-03,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,,,2,,,,,
+Q-015,Q-015-04,"Peraturan Pemerintah Nomor 17 Tahun 2020, Pasal I",1,,,5,,,,,,,4
+Q-015,Q-015-05,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,2,,,,1,3,2,5,,,
+Q-015,Q-015-06,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 17",2,,,,,,,,3,3,2
+Q-015,Q-015-07,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 13",1,,,,,,,,5,5,
+Q-015,Q-015-08,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 320",1,,,,,,,,,,5
+Q-015,Q-015-09,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 84",1,,,4,,,5,4,4,4,1
+Q-015,Q-015-10,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,5,,,,,,
+Q-015,Q-015-11,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 14",1,,,2,,5,,3,1,1,3
+Q-015,Q-015-12,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 83",1,,,3,,,3,2,,,
+Q-015,Q-015-13,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,3,,,,,,
+Q-015,Q-015-14,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,2,,,,2,4,4,,2,2,
+Q-016,Q-016-01,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,,,,3,3,1
+Q-016,Q-016-02,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,3,,2,,4,,,
+Q-016,Q-016-03,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,0,,,,1,1,,,,,
+Q-016,Q-016-04,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,5,3,3,,,,2
+Q-016,Q-016-05,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,0,,,,,,,,1,1,
+Q-016,Q-016-06,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,1,,,,,,,,,,5
+Q-016,Q-016-07,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,4,,,,5,5,5,
+Q-016,Q-016-08,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,5,,,,,2,2,
+Q-016,Q-016-09,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,0,,,,4,,,,,,
+Q-016,Q-016-10,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,2,3,4,5,3,,,
+Q-016,Q-016-11,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,5,,,,,
+Q-016,Q-016-12,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,1,,,2,1,,,3
+Q-016,Q-016-13,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,0,,,,2,,,,,,
+Q-016,Q-016-14,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,1,,,,,,4,,4,4,
+Q-016,Q-016-15,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,,1,2,,,4
+Q-017,Q-017-01,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,,,,,5,,,
+Q-017,Q-017-02,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,,,,,,,,5
+Q-017,Q-017-03,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,1,2,1,2,2,2,2,3
+Q-017,Q-017-04,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,2,,3,3,3,,,
+Q-017,Q-017-05,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,2,,,,1,5,,,,,
+Q-017,Q-017-06,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 30",0,,,,5,,,,,,
+Q-017,Q-017-07,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,,,2,,,,,
+Q-017,Q-017-08,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,2,,,3,,,1,1,,,
+Q-017,Q-017-09,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,2,,,5,,,,,,,
+Q-017,Q-017-10,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,0,,,,4,,4,,,,
+Q-017,Q-017-11,"Peraturan Lembaga Lembaga Administrasi Negara Nomor 6 Tahun 2022, Pasal I",0,,,,,,,,,,1
+Q-017,Q-017-12,"Peraturan Lembaga Lembaga Administrasi Negara Nomor 5 Tahun 2022, Pasal 25",0,,,,,,,,,,2
+Q-017,Q-017-13,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,4,3,4,5,4,1,1,4
+Q-018,Q-018-01,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,,,3,,,3,3,
+Q-018,Q-018-02,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,1,1,3
+Q-018,Q-018-03,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 28",0,,,2,2,2,4,3,,,
+Q-018,Q-018-04,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 30",1,,,5,3,4,5,5,,,
+Q-018,Q-018-05,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 45",0,,,3,4,5,3,2,,,
+Q-018,Q-018-06,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,4,,,1,4,,,4
+Q-018,Q-018-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,1,,,,5,,,,,,
+Q-018,Q-018-08,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 54",0,,,,,,,,2,2,
+Q-018,Q-018-09,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 7",0,,,,,,,,4,4,
+Q-018,Q-018-10,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,0,,,,,,,,,,2
+Q-018,Q-018-11,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 29",0,,,1,1,1,2,1,,,
+Q-018,Q-018-12,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,,,1
+Q-018,Q-018-13,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,1,,,,,,,,5,5,5
+Q-019,Q-019-01,"Peraturan Lembaga Lembaga Administrasi Negara Nomor 6 Tahun 2022, Pasal I",0,,,3,,4,,,,,
+Q-019,Q-019-02,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 7",2,,,,3,5,,,3,3,3
+Q-019,Q-019-03,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 239",2,,,,4,,,,4,4,4
+Q-019,Q-019-04,"Peraturan Lembaga Lembaga Administrasi Negara Nomor 5 Tahun 2022, Pasal 28B",0,,,4,,3,,5,,,
+Q-019,Q-019-05,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,5,,,2,3,,,
+Q-019,Q-019-06,"Undang-Undang Nomor 20 Tahun 2023, Pasal 55",2,,,1,1,1,1,1,1,1,2
+Q-019,Q-019-07,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,,,,,5
+Q-019,Q-019-08,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 30",2,,,2,2,2,3,2,2,2,1
+Q-019,Q-019-09,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 15",0,,,,5,,4,4,,,
+Q-019,Q-019-10,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,5,,,,
+Q-020,Q-020-01,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 9",0,,,,,,,,,,5
+Q-020,Q-020-02,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,1,,,,5,,,,,,
+Q-020,Q-020-03,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 40",0,,,,,,,,5,,
+Q-020,Q-020-04,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,3,,3,3,3,,,
+Q-020,Q-020-05,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,2,,2,1,1,1,1,
+Q-020,Q-020-06,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 31",1,,,,,,,5,,,
+Q-020,Q-020-07,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,1,,,,,4,,,,,
+Q-020,Q-020-08,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,1,,,5,,,4,4,,,
+Q-020,Q-020-09,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,,,,2,,,,2,,
+Q-020,Q-020-10,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,,,,,5,3
+Q-020,Q-020-11,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 2",0,,,,1,,,,,,
+Q-020,Q-020-12,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,,,,,,4
+Q-020,Q-020-13,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,1,4,1,2,2,3,2,1
+Q-020,Q-020-14,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,4,,,,,,4,
+Q-020,Q-020-15,Surat Edaran Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 28 Tahun 2021,1,,,,,,5,,4,3,
+Q-020,Q-020-16,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,,,2
+Q-020,Q-020-17,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 11",0,,,,3,,,,,,
+Q-020,Q-020-18,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,5,,,,,
+Q-021,Q-021-01,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 7 Tahun 2023, Pasal 5",1,,,4,2,3,2,3,,,3
+Q-021,Q-021-02,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 7 Tahun 2023, Pasal 4",1,,,,,5,,,,,5
+Q-021,Q-021-03,PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 7 Tahun 2023,1,,,,3,,,,,,
+Q-021,Q-021-04,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 7 Tahun 2023, Pasal 6",1,,,3,,4,5,5,1,1,4
+Q-021,Q-021-05,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 7 Tahun 2023, Pasal 2",1,,,2,4,1,3,2,3,3,2
+Q-021,Q-021-06,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 7 Tahun 2023, Pasal 7",0,,,5,5,,4,4,,,
+Q-021,Q-021-07,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 7 Tahun 2023, Pasal 3",2,,,1,1,2,1,1,2,2,1
+Q-022,Q-022-01,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,1,1,,2,,2,,2,1,1
+Q-022,Q-022-02,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,2,1,2,,,5,3,,,
+Q-022,Q-022-03,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 83",0,1,1,,,5,,,,,
+Q-022,Q-022-04,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,1,1,,3,,,,,,4
+Q-022,Q-022-05,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,2,1,1,,1,,4,,,5
+Q-022,Q-022-06,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,1,1,,1,,1,,1,2,2
+Q-022,Q-022-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,2,1,5,5,,3,2,,,
+Q-022,Q-022-08,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,0,0,1,,,,,,,,3
+Q-022,Q-022-09,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,1,1,,4,,,,,,
+Q-022,Q-022-10,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 13",0,1,1,,,4,,,,,
+Q-022,Q-022-11,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,2,1,3,,2,4,1,,,
+Q-022,Q-022-12,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,1,1,4,,3,,5,,,
+Q-023,Q-023-01,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 17",0,,,,,,,,,5,5
+Q-023,Q-023-02,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 12",0,,,5,5,4,,,1,1,2
+Q-023,Q-023-03,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 1",0,,,,,,,,5,,
+Q-023,Q-023-04,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 5",0,,,4,,,,,,,
+Q-023,Q-023-05,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 13",0,,,1,,,2,1,,,
+Q-023,Q-023-06,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 16",0,,,,,1,,,4,4,
+Q-023,Q-023-07,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 2",0,,,,4,5,5,5,,,
+Q-023,Q-023-08,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 9",0,,,,,,,,,,4
+Q-023,Q-023-09,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 15",0,,,3,2,,3,3,3,3,
+Q-023,Q-023-10,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 11",0,,,2,3,2,4,2,2,2,3
+Q-023,Q-023-11,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",1,,,,,,1,4,,,1
+Q-023,Q-023-12,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 8",0,,,,1,3,,,,,
+Q-024,Q-024-01,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,2,,,2,2,2,1,2,1,1,4
+Q-024,Q-024-02,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,,,4,,,,,
+Q-024,Q-024-03,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 30",2,,,1,1,1,2,1,,,1
+Q-024,Q-024-04,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 20",2,,,4,4,5,3,3,3,3,2
+Q-024,Q-024-05,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 31",2,,,3,,,,5,,,3
+Q-024,Q-024-06,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 29",2,,,,3,3,,,,,
+Q-024,Q-024-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,1,,,,5,,5,,,,
+Q-024,Q-024-08,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,2,,,5,,,,4,,,
+Q-024,Q-024-09,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 33",1,,,,,,4,,2,2,5
+Q-025,Q-025-01,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,2,,,,,3,,
+Q-025,Q-025-02,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,,5,
+Q-025,Q-025-03,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 13",0,,,,,4,,,,,
+Q-025,Q-025-04,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 2 Tahun 2025, Pasal 3",0,,,,4,,,,,,
+Q-025,Q-025-05,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 55",0,,,3,3,2,4,3,4,3,
+Q-025,Q-025-06,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,,,2
+Q-025,Q-025-07,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,4,2,5,2,2,1,1,3
+Q-025,Q-025-08,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,,,5,,
+Q-025,Q-025-09,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,,5,,,,,,
+Q-025,Q-025-10,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 4 Tahun 2025, Pasal 2",1,,,1,1,1,1,1,2,2,1
+Q-025,Q-025-11,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 8",0,,,,,,,,,,4
+Q-025,Q-025-12,Keputusan Kepala Badan Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia Kabupaten Sumenep Nomor 188 Tahun 2021,0,,,5,,,3,4,,,5
+Q-025,Q-025-13,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 38",0,,,,,3,5,5,,,
+Q-025,Q-025-14,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 27",0,,,,,,,,,4,
+Q-026,Q-026-01,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 1",0,,,,5,,5,,3,4,
+Q-026,Q-026-02,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,3,,4,,,,,
+Q-026,Q-026-03,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,,,,3,,,,
+Q-026,Q-026-04,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 8",0,,,1,,5,,,,,3
+Q-026,Q-026-05,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 33",0,,,4,4,,,,,,
+Q-026,Q-026-06,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,1,,,,,,,,,1,
+Q-026,Q-026-07,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 30",1,,,,,,,,,,5
+Q-026,Q-026-08,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 32",1,,,2,3,3,1,1,1,2,
+Q-026,Q-026-09,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,,,,,,5,5,
+Q-026,Q-026-10,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 47",0,,,,,,,4,,,
+Q-026,Q-026-11,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,,,,,,2,3,
+Q-026,Q-026-12,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 33",0,,,5,,,,2,,,
+Q-026,Q-026-13,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 9",0,,,,,,,,,,4
+Q-026,Q-026-14,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 17",2,,,,1,1,2,3,,,1
+Q-026,Q-026-15,"Peraturan Bupati Bupati Sumenep Nomor 15 Tahun 2026, Pasal I",2,,,,2,2,4,5,,,2
+Q-026,Q-026-16,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 7",0,,,,,,,,4,,
+Q-027,Q-027-01,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 15",2,2,2,,3,,,,3,3,
+Q-027,Q-027-02,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019,1,0,1,,,5,5,5,1,1,
+Q-027,Q-027-03,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 12",0,0,0,,4,,,,,,
+Q-027,Q-027-04,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019, Pasal 8",0,0,0,,,,4,4,,,
+Q-027,Q-027-05,"Peraturan Menteri Kementerian Dalam Negeri Nomor 58 Tahun 2019, Pasal 2",1,1,1,4,,,,,2,,
+Q-027,Q-027-06,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019, Pasal 5",1,1,1,5,,,3,2,,,
+Q-027,Q-027-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019,1,0,0,,5,4,,,,2,
+Q-027,Q-027-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019, Pasal 3",2,1,1,,,,2,3,,,5
+Q-027,Q-027-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019, Pasal 10",1,1,1,1,,,,,,,
+Q-027,Q-027-10,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 17",1,1,0,,2,2,,,,,
+Q-027,Q-027-11,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019, Pasal 2",1,1,0,3,,,,,5,,
+Q-027,Q-027-12,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 4",0,0,0,,,,,,,,2
+Q-027,Q-027-13,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019, Pasal 13",0,0,0,,,,,,,,4
+Q-027,Q-027-14,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 190",1,1,0,2,,,,,4,4,1
+Q-027,Q-027-15,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 184",0,0,0,,,,,,,,3
+Q-027,Q-027-16,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 16",1,1,0,,1,3,,,,,
+Q-027,Q-027-17,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019, Pasal 4",1,1,0,,,1,1,1,,,
+Q-028,Q-028-01,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,5,3,,5,,,
+Q-028,Q-028-02,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 341",1,,,4,,,,,,,
+Q-028,Q-028-03,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,5,,5,3,3,,,1
+Q-028,Q-028-04,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,,,5,,,,3
+Q-028,Q-028-05,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 93",1,,,3,,,,,3,3,
+Q-028,Q-028-06,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,1,2,2,2,1,1,1,4
+Q-028,Q-028-07,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,3,,4,4,,,2
+Q-028,Q-028-08,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,4,4,,,,,
+Q-028,Q-028-09,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,2,1,1,1,2,2,2,5
+Q-029,Q-029-01,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 15",0,,,,,,,,,,5
+Q-029,Q-029-02,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 19",0,,,,3,3,5,,,,
+Q-029,Q-029-03,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 4 Tahun 2025, Pasal 2",1,,,1,1,1,1,1,1,1,1
+Q-029,Q-029-04,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 2 Tahun 2025, Pasal 1",1,,,,,,3,4,,,
+Q-029,Q-029-05,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 40",0,,,4,,,,,,,2
+Q-029,Q-029-06,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 55",0,,,2,2,2,2,2,,,4
+Q-029,Q-029-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,,,3
+Q-029,Q-029-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 2 Tahun 2025, Pasal 3",0,,,,5,5,,,,,
+Q-029,Q-029-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 2 Tahun 2025, Pasal 2",0,,,3,,,4,3,,,
+Q-029,Q-029-10,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 29",0,,,,4,4,,,,,
+Q-029,Q-029-11,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 16",0,,,5,,,,5,,,
+Q-030,Q-030-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,3,,,,,,
+Q-030,Q-030-02,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,0,,,,5,,,,,,
+Q-030,Q-030-03,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 13",0,,,,,,,,,,5
+Q-030,Q-030-04,"Peraturan Lembaga Lembaga Administrasi Negara Nomor 5 Tahun 2022, Pasal 26",0,,,,,,,,,1,
+Q-030,Q-030-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 17",0,,,,2,3,3,4,4,,
+Q-030,Q-030-06,Keputusan Kepala Badan Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia Kabupaten Sumenep Nomor 188 Tahun 2021,0,,,,,,5,,,,4
+Q-030,Q-030-07,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,2,,2,4,2,1,4,
+Q-030,Q-030-08,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 30",0,,,,4,,2,3,,,
+Q-030,Q-030-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 19",0,,,4,,,,,,,
+Q-030,Q-030-10,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 27",0,,,5,,5,,,,,
+Q-030,Q-030-11,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,,3,
+Q-030,Q-030-12,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,3,,4,,,3,,
+Q-030,Q-030-13,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,5,,
+Q-030,Q-030-14,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 21",0,,,,,,,,,,3
+Q-030,Q-030-15,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 18",0,,,,,,,,,,1
+Q-030,Q-030-16,"Peraturan Lembaga Lembaga Administrasi Negara Nomor 6 Tahun 2022, Pasal I",0,,,,,,,,,2,
+Q-030,Q-030-17,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 21",0,,,1,1,1,1,1,,,2
+Q-030,Q-030-18,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,,,,,5,2,5,
+Q-031,Q-031-01,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,4,3,,,,,
+Q-031,Q-031-02,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,2,,,,3,2,,,,,
+Q-031,Q-031-03,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,2,,,,5,,,,,,
+Q-031,Q-031-04,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,,,,,,3
+Q-031,Q-031-05,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,1,,,5,2,,,2
+Q-031,Q-031-06,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,5,,,,,
+Q-031,Q-031-07,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,5,,,,,,,
+Q-031,Q-031-08,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,2,4,3,4,,,5
+Q-031,Q-031-09,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,2,1,1,1,1,1,1,4
+Q-031,Q-031-10,"Undang-Undang Nomor 20 Tahun 2009, Pasal 4",0,,,,,,,,2,,
+Q-031,Q-031-11,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,4,,,2,3,4,3,
+Q-031,Q-031-12,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,2,,,,,,4,,,,
+Q-031,Q-031-13,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,,,,3,2,
+Q-031,Q-031-14,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,3,,,,5,,,
+Q-031,Q-031-15,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,,,,,,1
+Q-032,Q-032-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 26 Tahun 2019,0,,,,,,,,,3,
+Q-032,Q-032-02,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,,2,
+Q-032,Q-032-03,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 8",0,,,,2,1,,,,,
+Q-032,Q-032-04,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 305",0,,,,,,,,,4,
+Q-032,Q-032-05,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 48",0,,,,1,2,2,2,1,1,1
+Q-032,Q-032-06,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,,,3,,,5,4,,,4
+Q-032,Q-032-07,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 13",0,,,5,,,4,3,,,
+Q-032,Q-032-08,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 38",0,,,1,,,1,1,,,
+Q-032,Q-032-09,"Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022, Pasal 20",0,,,2,,,,,,,
+Q-032,Q-032-10,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,,,5,,
+Q-032,Q-032-11,"Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022, Pasal 35",1,,,4,,,,,,,
+Q-032,Q-032-12,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,,,,5,,,,3,5,3
+Q-032,Q-032-13,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 7",0,,,,,,,,,,5
+Q-032,Q-032-14,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,,,4,,
+Q-032,Q-032-15,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 10",0,,,,,5,,,,,
+Q-032,Q-032-16,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,,,,4,4,,,,,
+Q-032,Q-032-17,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 16",0,,,,3,3,3,,,,2
+Q-032,Q-032-18,"Undang-Undang Nomor 20 Tahun 2023, Pasal 22",0,,,,,,,5,,,
+Q-032,Q-032-19,PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI REPUBLIK INDONESIA Nomor 20 Tahun 2025,0,,,,,,,,2,,
+Q-033,Q-033-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,2,,,2,1,1,1,1,2,4,3
+Q-033,Q-033-02,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 319",1,,,4,,,,,,,
+Q-033,Q-033-03,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 320",2,,,,3,4,5,,,2,
+Q-033,Q-033-04,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,3,,,,,,,
+Q-033,Q-033-05,"Peraturan Pemerintah Nomor 17 Tahun 2020, Pasal I",2,,,,4,3,,,,3,
+Q-033,Q-033-06,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,,,,,2,3,4,,,
+Q-033,Q-033-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,,2,5,,5,,,4
+Q-033,Q-033-08,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 321",0,,,5,,,4,3,1,1,1
+Q-033,Q-033-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 14",0,,,,,,,,5,,
+Q-033,Q-033-10,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 322",2,,,1,,,,,,,
+Q-033,Q-033-11,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,,,,,,5
+Q-033,Q-033-12,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,,,,2,2,,,2
+Q-033,Q-033-13,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 13",0,,,,,,,,3,5,
+Q-033,Q-033-14,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 83",0,,,,,,,,4,,
+Q-033,Q-033-15,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,5,,,,,,
+Q-034,Q-034-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,2,,,4,,5,
+Q-034,Q-034-02,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019,0,,,,,,3,2,,,
+Q-034,Q-034-03,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,,,2
+Q-034,Q-034-04,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,3,,,,,,2,5
+Q-034,Q-034-05,"Undang-Undang Nomor 20 Tahun 2023, Pasal 58",0,,,,,,,,5,,
+Q-034,Q-034-06,"Undang-Undang Nomor 20 Tahun 2023, Pasal 59",0,,,,,,,,3,,
+Q-034,Q-034-07,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,,4,5,,,,,
+Q-034,Q-034-08,SURAT EDARAN BUPATI SUMENEP Nomor 41 Tahun 2025,0,,,,,3,,,,,
+Q-034,Q-034-09,Peraturan Badan Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,2,,,,,,3,1
+Q-034,Q-034-10,Surat Edaran Menteri Dalam Negeri Republik Indonesia Nomor 800.1.5/3349/SJ Tahun 2026,0,,,,5,,,,,,
+Q-034,Q-034-11,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 4",0,,,,,,2,3,,,
+Q-034,Q-034-12,"Undang-Undang Nomor 20 Tahun 2023, Pasal 52",0,,,5,,,,,1,,
+Q-034,Q-034-13,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,4,5,,,
+Q-034,Q-034-14,"Undang-Undang Nomor 20 Tahun 2023, Pasal 65",0,,,,,,,,2,,
+Q-034,Q-034-15,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 1",0,,,,3,,,,,,
+Q-034,Q-034-16,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,0,,,4,,,,,,,
+Q-034,Q-034-17,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 11",0,,,,,,1,1,,,
+Q-034,Q-034-18,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 11",0,,,,,4,,,,,
+Q-034,Q-034-19,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,,,,,,,,4
+Q-034,Q-034-20,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 53",0,,,,1,1,,,,,
+Q-034,Q-034-21,"Undang-Undang Nomor 20 Tahun 2023, Pasal 62",0,,,,,,,,,1,
+Q-034,Q-034-22,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2020,0,,,1,,,5,,,4,3
+Q-034,Q-034-23,"Undang-Undang Nomor 20 Tahun 2023, Pasal 61",0,,,,,,,,4,,
+Q-034,Q-034-24,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,,,,,2,,,,,
+Q-035,Q-035-01,Surat Edaran Bupati Sumenep Nomor 10 Tahun 2026,0,,,,2,,,,,,
+Q-035,Q-035-02,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI REPUBLIK INDONESIA Nomor 20 Tahun 2025, Pasal I",0,,,,3,,,,,,
+Q-035,Q-035-03,"Peraturan Presiden Nomor 21 Tahun 2023, Pasal 8",0,,,,,3,,,,,
+Q-035,Q-035-04,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 1",0,,,,,,,,,3,
+Q-035,Q-035-05,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 1",0,,,,,,3,5,,4,
+Q-035,Q-035-06,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 14",2,,,1,,2,,,,,
+Q-035,Q-035-07,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021, Pasal 1",0,,,,,,,,,2,
+Q-035,Q-035-08,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 1",1,,,4,,,4,1,,,
+Q-035,Q-035-09,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 45",0,,,,,,,,3,,
+Q-035,Q-035-10,SURAT EDARAN KEPALA BADAN KEPEGAWAIAN NEGARA Nomor 1 Tahun 2023,0,,,,,,,,5,,
+Q-035,Q-035-11,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 38",0,,,,,,,,4,,
+Q-035,Q-035-12,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019, Pasal 1",0,,,,,,,,,,3
+Q-035,Q-035-13,"Undang-Undang Nomor 20 Tahun 2023, Pasal 53",0,,,,,,,,,,4
+Q-035,Q-035-14,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 20",0,,,,,,1,2,2,5,2
+Q-035,Q-035-15,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 27",0,,,3,,1,2,4,,,5
+Q-035,Q-035-16,Surat Edaran Menteri Dalam Negeri Republik Indonesia Nomor 800.1.5/3349/SJ Tahun 2026,0,,,,1,5,,,,,
+Q-035,Q-035-17,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 8",1,,,2,5,4,5,3,1,1,1
+Q-035,Q-035-18,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 36",0,,,5,,,,,,,
+Q-035,Q-035-19,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 1",0,,,,4,,,,,,
+Q-036,Q-036-01,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,3,,,,,1
+Q-036,Q-036-02,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,4,,,,,2
+Q-036,Q-036-03,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 8",0,,,,,,3,4,,,
+Q-036,Q-036-04,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,1,,,,3,,,,,,
+Q-036,Q-036-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 6",2,,,1,,,4,3,,,4
+Q-036,Q-036-06,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,1,,,,,,5,5,,,
+Q-036,Q-036-07,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 78",2,,,2,,,1,1,,,5
+Q-036,Q-036-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 4",0,,,,,,,,,3,
+Q-036,Q-036-09,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 311",2,,,3,,,2,2,,,3
+Q-036,Q-036-10,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,0,,,,5,,,,,,
+Q-036,Q-036-11,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 2",1,,,5,,,,,,,
+Q-036,Q-036-12,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 310",1,,,,,,,,2,2,
+Q-036,Q-036-13,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,2,2,,,,,
+Q-036,Q-036-14,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 309",1,,,4,,,,,,,
+Q-036,Q-036-15,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,,,5,,,,,
+Q-036,Q-036-16,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,1,1,,,,,
+Q-036,Q-036-17,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,0,,,,4,,,,,,
+Q-036,Q-036-18,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 13",1,,,,,,,,1,1,
+Q-037,Q-037-01,"Undang-Undang Nomor 20 Tahun 2023, Pasal 73",1,,,,5,,,,,,
+Q-037,Q-037-02,"Peraturan Bupati Bupati Sumenep Nomor 40 Tahun 2021, Pasal 7",1,,,2,,,3,3,,,4
+Q-037,Q-037-03,"Undang-Undang Nomor 20 Tahun 2023, Pasal 39",1,,,,,4,,5,,,
+Q-037,Q-037-04,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 1",0,,,,2,3,,,,,
+Q-037,Q-037-05,"Peraturan Bupati Bupati Sumenep Nomor 40 Tahun 2021, Pasal 4",1,,,,,,4,,,,
+Q-037,Q-037-06,"Peraturan Bupati Bupati Sumenep Nomor 40 Tahun 2021, Pasal 6",2,,,4,,,,,,,
+Q-037,Q-037-07,"Peraturan Bupati Bupati Sumenep Nomor 40 Tahun 2021, Pasal 11",0,,,,,,,,,,3
+Q-037,Q-037-08,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,1,,,,,5,,,5,4,
+Q-037,Q-037-09,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 94",1,,,,,,2,4,,,
+Q-037,Q-037-10,"Peraturan Bupati Bupati Sumenep Nomor 40 Tahun 2021, Pasal 2",1,,,5,,,,,4,3,1
+Q-037,Q-037-11,"Peraturan Bupati Bupati Sumenep Nomor 40 Tahun 2021, Pasal 1",1,,,,1,,,,1,1,
+Q-037,Q-037-12,"Undang-Undang Nomor 20 Tahun 2023, Pasal 24",1,,,,4,,,,,,
+Q-037,Q-037-13,"Undang-Undang Nomor 20 Tahun 2023, Pasal 4",2,,,3,3,1,1,1,3,,5
+Q-037,Q-037-14,"Peraturan Bupati Bupati Sumenep Nomor 40 Tahun 2021, Pasal 5",2,,,1,,2,5,2,2,2,2
+Q-038,Q-038-01,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,,,2,2,2,2,2,4,4,3
+Q-038,Q-038-02,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 21",0,,,,,,4,5,,,
+Q-038,Q-038-03,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 8",0,,,,1,1,,,,,
+Q-038,Q-038-04,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,,,,,5
+Q-038,Q-038-05,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,,,,,,5,,
+Q-038,Q-038-06,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,3,3,,,
+Q-038,Q-038-07,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 1",0,,,,5,,,,1,1,
+Q-038,Q-038-08,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 9",0,,,,,,5,4,,5,1
+Q-038,Q-038-09,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,3,,,,,,,4
+Q-038,Q-038-10,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 1",0,,,,4,5,,,2,2,
+Q-038,Q-038-11,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 8",1,,,1,3,4,1,1,,,2
+Q-038,Q-038-12,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 5",0,,,5,,3,,,,,
+Q-038,Q-038-13,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 1",0,,,,,,,,3,3,
+Q-038,Q-038-14,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,4,,,,,,,
+Q-039,Q-039-01,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,2,3,5,,,,
+Q-039,Q-039-02,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 2",0,,,4,,,,,,,
+Q-039,Q-039-03,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 20",0,,,,,,,,,,5
+Q-039,Q-039-04,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,,,,,5,,,
+Q-039,Q-039-05,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 309",1,,,3,,,,,,,
+Q-039,Q-039-06,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,4,4,,,,,
+Q-039,Q-039-07,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,2,,,,,,4,4,,,
+Q-039,Q-039-08,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 91",0,,,5,,,3,2,,,2
+Q-039,Q-039-09,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 80",0,,,,,,,,,,3
+Q-039,Q-039-10,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,2,,,1,1,1,1,1,2,1,1
+Q-039,Q-039-11,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,3,2,,,,,
+Q-039,Q-039-12,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 76",0,,,2,,,,,1,,
+Q-039,Q-039-13,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 9",0,,,,,,,,,,4
+Q-039,Q-039-14,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,5,5,,,,,
+Q-039,Q-039-15,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,2,,,,,,2,3,,,
+Q-040,Q-040-01,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 4",1,,,1,2,1,,4,,,
+Q-040,Q-040-02,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 5",2,,,5,1,2,3,3,,,
+Q-040,Q-040-03,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 1",0,,,,,,,,,,1
+Q-040,Q-040-04,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 30",1,,,2,3,3,1,1,,,
+Q-040,Q-040-05,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,4,4,,2,2,,,2
+Q-040,Q-040-06,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 7",0,,,,,,,,,,3
+Q-040,Q-040-07,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 8",0,,,,,5,,,,,
+Q-040,Q-040-08,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 7",0,,,3,5,4,,,,,4
+Q-040,Q-040-09,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 33",0,,,,,,5,,,,
+Q-040,Q-040-10,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 33",0,,,,,,,,,,5
+Q-040,Q-040-11,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,,,,4,5,1,1,
+Q-041,Q-041-01,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021, Pasal 6",0,,,,,,,,5,,
+Q-041,Q-041-02,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 1",0,,,,1,5,,,,,
+Q-041,Q-041-03,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 175",1,,,1,,3,,,,5,
+Q-041,Q-041-04,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 12",0,,,3,,4,,,,,
+Q-041,Q-041-05,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 8",0,,,,,,3,2,,,1
+Q-041,Q-041-06,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 53",0,,,,2,,,5,4,4,
+Q-041,Q-041-07,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019, Pasal 8",0,,,,,,5,,,,
+Q-041,Q-041-08,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",0,,,,3,,,,,,
+Q-041,Q-041-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 5 Tahun 2019, Pasal 4",0,,,,,1,2,1,,,3
+Q-041,Q-041-10,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 10",0,,,,,,,,,,2
+Q-041,Q-041-11,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,2,,,,,3,2,
+Q-041,Q-041-12,"PERATURAN PRESIDEN Nomor 116 Tahun 2022, Pasal 3",0,,,,,,,,1,,
+Q-041,Q-041-13,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,,1,
+Q-041,Q-041-14,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 30",0,,,4,,2,,,,,
+Q-041,Q-041-15,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 181",0,,,5,,,,,,,
+Q-041,Q-041-16,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,0,,,,,,,,,,5
+Q-041,Q-041-17,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 15",0,,,,,,,,2,,
+Q-041,Q-041-18,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,5,,1,3,,,
+Q-041,Q-041-19,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 93",0,,,,,,,,,3,
+Q-041,Q-041-20,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,4,4,,,4
+Q-041,Q-041-21,"Peraturan Menteri Kementerian Dalam Negeri Nomor 58 Tahun 2019, Pasal 4",0,,,,4,,,,,,
+Q-042,Q-042-01,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 9",0,0,,,2,5,,,,,
+Q-042,Q-042-02,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,0,,,,,,,4,4,
+Q-042,Q-042-03,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,0,,,,,4,5,1,1,1
+Q-042,Q-042-04,Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022,0,1,,4,,4,,,,,
+Q-042,Q-042-05,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 11",0,0,,5,,2,,,,,
+Q-042,Q-042-06,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 4 Tahun 2025, Pasal 2",0,0,,,,,5,4,,,
+Q-042,Q-042-07,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 27",0,1,,,1,,,,,,
+Q-042,Q-042-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021, Pasal 39",0,0,,,,,,,5,,
+Q-042,Q-042-09,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 20",1,2,,2,5,3,1,2,,,5
+Q-042,Q-042-10,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,0,0,,,,,,,,,4
+Q-042,Q-042-11,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 17",1,1,,3,4,,2,3,,,
+Q-042,Q-042-12,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",2,2,,1,3,1,3,1,,,3
+Q-042,Q-042-13,Keputusan Kepala Badan Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia Kabupaten Sumenep Nomor 188 Tahun 2021,0,0,,,,,,,,5,
+Q-042,Q-042-14,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 9",0,0,,,,,,,,,2
+Q-042,Q-042-15,"Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022, Pasal 16",0,0,,,,,,,2,2,
+Q-042,Q-042-16,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,0,,,,,,,3,3,
+Q-043,Q-043-01,"Peraturan Bupati Bupati Sumenep Nomor 40 Tahun 2021, Pasal 24",0,,,,,,,,4,4,
+Q-043,Q-043-02,Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022,0,,,,,,,,2,2,
+Q-043,Q-043-03,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 33",0,,,,3,,2,3,,,
+Q-043,Q-043-04,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 21",0,,,3,,5,,,5,5,
+Q-043,Q-043-05,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 1",0,,,,,,,,,,5
+Q-043,Q-043-06,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 28",0,,,,2,,3,4,,,2
+Q-043,Q-043-07,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 34",0,,,5,,,5,5,,,
+Q-043,Q-043-08,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 1",0,,,,,,,,,,4
+Q-043,Q-043-09,"Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022, Pasal 22",0,,,,,,,,3,3,
+Q-043,Q-043-10,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 33",0,,,,4,,,,,,
+Q-043,Q-043-11,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 8",1,,,,,4,,,,,
+Q-043,Q-043-12,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,,,,,,,,,,3
+Q-043,Q-043-13,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 47",0,,,1,1,1,1,1,1,1,1
+Q-043,Q-043-14,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,2,,,4,5,3,,,,,
+Q-043,Q-043-15,"Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022, Pasal 1",0,,,2,,2,4,2,,,
+Q-044,Q-044-01,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,2,,,5,3,5,5,
+Q-044,Q-044-02,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,,,,2,2,3
+Q-044,Q-044-03,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,4,,,,,,5
+Q-044,Q-044-04,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,4,,,,,,,
+Q-044,Q-044-05,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,2,,,,,3,,,3,3,
+Q-044,Q-044-06,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,2,,,,3,,,,,,
+Q-044,Q-044-07,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,,4,5,,,4
+Q-044,Q-044-08,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,,,,,,2
+Q-044,Q-044-09,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,2,,,5,,,,4,1,1,
+Q-044,Q-044-10,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,,2,,,,,1
+Q-044,Q-044-11,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,1,,,1,1,4,4,
+Q-044,Q-044-12,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 45",1,,,,,4,,,,,
+Q-044,Q-044-13,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,,5,,3,,,,
+Q-044,Q-044-14,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,2,,,,2,5,,,,,
+Q-044,Q-044-15,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,2,,,3,,,2,2,,,
+Q-044,Q-044-16,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,2,,,,1,1,,,,,
+Q-045,Q-045-01,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 7",0,,,5,,,,,,5,
+Q-045,Q-045-02,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 17",0,,,,3,3,,,,,2
+Q-045,Q-045-03,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 21",0,,,2,2,,2,2,,,1
+Q-045,Q-045-04,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,4,,,,
+Q-045,Q-045-05,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,1,,,,,,,,,4,
+Q-045,Q-045-06,"Peraturan Lembaga Lembaga Administrasi Negara Nomor 5 Tahun 2022, Pasal 28A",0,,,,,4,,,,,
+Q-045,Q-045-07,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,0,,,,,,,,,,3
+Q-045,Q-045-08,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,,,,,,4,,
+Q-045,Q-045-09,"Peraturan Lembaga Lembaga Administrasi Negara Nomor 6 Tahun 2022, Pasal I",0,,,,,5,,,,,
+Q-045,Q-045-10,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,3,1,1,,4,,,
+Q-045,Q-045-11,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 2 Tahun 2025, Pasal 2",0,,,1,,,,,,,
+Q-045,Q-045-12,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 25",0,,,,,,,,2,,
+Q-045,Q-045-13,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 27",0,,,,,,,,3,,
+Q-045,Q-045-14,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 13",0,,,4,5,,3,3,1,1,
+Q-045,Q-045-15,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 18",0,,,,,2,,,,,
+Q-045,Q-045-16,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 19",0,,,,,,,,,,5
+Q-045,Q-045-17,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,5,5,,,
+Q-045,Q-045-18,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 40",0,,,,,,,,,3,4
+Q-045,Q-045-19,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,4,,1,1,5,2,
+Q-046,Q-046-01,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,3,,,,,,,
+Q-046,Q-046-02,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,4,,,,5
+Q-046,Q-046-03,"Peraturan Lembaga Administrasi Negara Lembaga Administrasi Negara Nomor 1 Tahun 2021, Pasal 3",0,,,,,,,,,5,4
+Q-046,Q-046-04,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,2,,4,,,3,2,
+Q-046,Q-046-05,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,5,,,,
+Q-046,Q-046-06,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,,,,,2
+Q-046,Q-046-07,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 9",0,,,4,,2,2,2,2,3,
+Q-046,Q-046-08,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,,,,,5,,,
+Q-046,Q-046-09,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,2,3,3,3,,,
+Q-046,Q-046-10,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,5,,,,,,
+Q-046,Q-046-11,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 16",0,,,,,,,,4,,
+Q-046,Q-046-12,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,4,,,,,,
+Q-046,Q-046-13,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,5,,,,4,5,4,
+Q-046,Q-046-14,Peraturan Pemerintah Nomor 35 Tahun 2010,1,,,1,1,1,1,1,1,1,1
+Q-046,Q-046-15,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,3,5,,,,,
+Q-046,Q-046-16,Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019,0,,,,,,,,,,3
+Q-047,Q-047-01,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 45",0,,,,,1,,,,,
+Q-047,Q-047-02,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,2,,,,,,
+Q-047,Q-047-03,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2021, Pasal 18",0,,,2,,,,,,,
+Q-047,Q-047-04,Peraturan Badan Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,1,,
+Q-047,Q-047-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021, Pasal 1",0,,,5,,,,,,,
+Q-047,Q-047-06,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 6 Tahun 2024, Pasal 22",0,,,,,,,,4,3,
+Q-047,Q-047-07,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,,,,,,,5,
+Q-047,Q-047-08,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 1",0,,,3,,2,5,4,5,4,
+Q-047,Q-047-09,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 1",0,,,1,1,3,1,1,,,3
+Q-047,Q-047-10,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 6 Tahun 2024, Pasal 1",0,,,,4,,,,,,
+Q-047,Q-047-11,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022, Pasal 2",0,,,,,,,,,,2
+Q-047,Q-047-12,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,,2,4
+Q-047,Q-047-13,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,5,,,,,,
+Q-047,Q-047-14,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,,1,1
+Q-047,Q-047-15,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022, Pasal 1",0,,,,,,4,5,,,
+Q-047,Q-047-16,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 12",0,,,4,,4,,,,,
+Q-047,Q-047-17,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 1",0,,,,,,2,3,,,
+Q-047,Q-047-18,"Peraturan Presiden Nomor 21 Tahun 2023, Pasal 8",0,,,,,,,,3,,
+Q-047,Q-047-19,"PERATURAN PRESIDEN Nomor 116 Tahun 2022, Pasal 22",0,,,,,5,,,,,
+Q-047,Q-047-20,"PERATURAN PRESIDEN Nomor 116 Tahun 2022, Pasal 18",0,,,,,,3,2,,,5
+Q-047,Q-047-21,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 53",0,,,,3,,,,,,
+Q-047,Q-047-22,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 35",0,,,,,,,,2,,
+Q-048,Q-048-01,"Peraturan Bupati Bupati Sumenep Nomor 40 Tahun 2021, Pasal 1",0,,,,,,,,,5,
+Q-048,Q-048-02,"Peraturan Pemerintah Nomor 45 Tahun 1990, Pasal I",2,,,3,,2,,,,,
+Q-048,Q-048-03,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 1",0,,,,,,,,4,,
+Q-048,Q-048-04,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 16",0,,,2,5,,3,2,2,4,
+Q-048,Q-048-05,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 5",0,,,,,,,,,,4
+Q-048,Q-048-06,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 6",0,,,,,,,5,,,
+Q-048,Q-048-07,"PERATURAN PEMERINTAH Nomor 10 Tahun 1983, Pasal 11",1,,,,3,3,,,,,
+Q-048,Q-048-08,"PERATURAN PEMERINTAH Nomor 10 Tahun 1983, Pasal 6",1,,,,,5,,,,,
+Q-048,Q-048-09,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 20",0,,,,,,,,,,5
+Q-048,Q-048-10,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 1",0,,,,,,,,5,,
+Q-048,Q-048-11,"PERATURAN PEMERINTAH Nomor 10 Tahun 1983, Pasal 3",2,,,4,,1,,,,,
+Q-048,Q-048-12,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 11",0,,,,2,,,,,,
+Q-048,Q-048-13,"Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022, Pasal 1",0,,,,,,,,,2,
+Q-048,Q-048-14,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 39",0,,,,,,,,,,1
+Q-048,Q-048-15,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 17",0,,,1,,4,,4,1,1,
+Q-048,Q-048-16,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",0,,,5,,,1,1,,,2
+Q-048,Q-048-17,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 9",0,,,,,,4,,,,3
+Q-048,Q-048-18,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 15",0,,,,4,,2,3,3,3,
+Q-048,Q-048-19,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 2",0,,,,1,,,,,,
+Q-048,Q-048-20,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,,,,,,5,,,,
+Q-049,Q-049-01,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 22",0,0,,4,,,,,,,
+Q-049,Q-049-02,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,0,0,,,2,,,,2,2,
+Q-049,Q-049-03,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 24",0,0,,,,,,,,,2
+Q-049,Q-049-04,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 6 Tahun 2024, Pasal 56",0,0,,2,,2,3,3,,,1
+Q-049,Q-049-05,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 157",0,0,,,,5,,,,,
+Q-049,Q-049-06,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 21",0,0,,,4,,5,,1,1,
+Q-049,Q-049-07,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 6 Tahun 2024, Pasal 59",0,0,,,,,,,,,5
+Q-049,Q-049-08,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,0,0,,3,,3,1,2,,,
+Q-049,Q-049-09,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 6 Tahun 2024, Pasal 57",0,0,,1,,1,2,1,,,4
+Q-049,Q-049-10,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,0,,,1,4,,,,,
+Q-049,Q-049-11,"Undang-Undang Nomor 20 Tahun 2023, Pasal 59",0,0,,,5,,,,,,
+Q-049,Q-049-12,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 26",0,0,,,,,4,5,,,
+Q-049,Q-049-13,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 268",0,0,,,,,,,,,3
+Q-049,Q-049-14,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 22",0,0,,,3,,,,,,
+Q-049,Q-049-15,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 9",0,0,,5,,,,4,,,
+Q-050,Q-050-01,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 16",0,,,,,,,,5,,
+Q-050,Q-050-02,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",0,,,,,,,,3,3,
+Q-050,Q-050-03,Keputusan Kepala Badan Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia Kabupaten Sumenep Nomor 188 Tahun 2021,1,,,,,,,,,,5
+Q-050,Q-050-04,"Peraturan Pemerintah Nomor 35 Tahun 2010, Pasal 7",0,,,,,,3,4,,,
+Q-050,Q-050-05,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,3,2,2,4,3,,,
+Q-050,Q-050-06,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,4,,,,,1,,
+Q-050,Q-050-07,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,5,,5,,,,,
+Q-050,Q-050-08,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,,,,,,,,,5,
+Q-050,Q-050-09,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,,,,,,,,1
+Q-050,Q-050-10,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 15",0,,,,,,5,5,2,2,
+Q-050,Q-050-11,Peraturan Pemerintah Nomor 35 Tahun 2010,1,,,,,3,,,,,
+Q-050,Q-050-12,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,,4,,,,,,
+Q-050,Q-050-13,Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017,0,,,,,,,,,,3
+Q-050,Q-050-14,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,2,1,4,1,2,,,
+Q-050,Q-050-15,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,,5,,,,,,
+Q-050,Q-050-16,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 9",0,,,,,,,,4,4,4
+Q-050,Q-050-17,Peraturan Pemerintah Nomor 35 Tahun 2010,1,,,1,3,1,2,1,,,2
+Q-050,Q-050-18,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,,,,,,,1,
+Q-051,Q-051-01,"Peraturan Pemerintah Nomor 30 Tahun 2019, Pasal 1",0,,,,3,,,,,,
+Q-051,Q-051-02,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,3,,,,,,,
+Q-051,Q-051-03,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,,,4,,
+Q-051,Q-051-04,"Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022, Pasal 16",0,,,,,,,,,,2
+Q-051,Q-051-05,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,1,
+Q-051,Q-051-06,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,,2,
+Q-051,Q-051-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,,,5,,,,,,,
+Q-051,Q-051-08,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,4,3,3,4,3
+Q-051,Q-051-09,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,5,,,
+Q-051,Q-051-10,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 12",1,,,,2,3,,,,,4
+Q-051,Q-051-11,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,,3,
+Q-051,Q-051-12,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 26 Tahun 2019, Pasal 48",0,,,,,,,,,,5
+Q-051,Q-051-13,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 10",0,,,2,,,,,,,
+Q-051,Q-051-14,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 26 Tahun 2019,0,,,,,,1,2,,,
+Q-051,Q-051-15,"Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022, Pasal 35",1,,,,5,2,,,,,
+Q-051,Q-051-16,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2020,0,,,,,,,,1,,
+Q-051,Q-051-17,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,5,,,5,
+Q-051,Q-051-18,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,,,5,,
+Q-051,Q-051-19,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",0,,,1,,,,,,,
+Q-051,Q-051-20,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 1",0,,,,4,,,,,,
+Q-051,Q-051-21,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,,,2,,
+Q-051,Q-051-22,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 9",0,,,,,4,,,,,
+Q-051,Q-051-23,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,3,4,,,
+Q-051,Q-051-24,"Peraturan Pemerintah Nomor 30 Tahun 2019, Pasal 60",1,,,,,5,,,,,
+Q-051,Q-051-25,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 13",1,,,,1,1,2,1,,,1
+Q-051,Q-051-26,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,,,4,,,,,,,
+Q-052,Q-052-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,5,,
+Q-052,Q-052-02,"Undang-Undang Nomor 11 Tahun 1969, Pasal 19",1,,,,,4,,,,,
+Q-052,Q-052-03,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 2",0,,,1,,,,,,,
+Q-052,Q-052-04,"PERATURAN PEMERINTAH Nomor 10 Tahun 1983, Pasal 10",0,,,,,2,4,,,,
+Q-052,Q-052-05,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,,,,,,,,5
+Q-052,Q-052-06,"PERATURAN PEMERINTAH Nomor 10 Tahun 1983, Pasal 6",0,,,,,5,,,,,
+Q-052,Q-052-07,"Undang-Undang Nomor 11 Tahun 1969, Pasal 16",1,,,,4,,,,,,
+Q-052,Q-052-08,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,,,,,,,,4
+Q-052,Q-052-09,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 6",0,,,,,,,,2,,
+Q-052,Q-052-10,Keputusan Kepala Badan Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia Kabupaten Sumenep Nomor 188 Tahun 2021,1,,,,3,,,,,2,
+Q-052,Q-052-11,"PERATURAN PEMERINTAH Nomor 10 Tahun 1983, Pasal 9",0,,,,,3,,,,,
+Q-052,Q-052-12,Peraturan Pemerintah Nomor 35 Tahun 2010,0,,,,,,3,5,,,
+Q-052,Q-052-13,"Undang-Undang Nomor 20 Tahun 2009, Pasal 28",0,,,,,,2,1,,,
+Q-052,Q-052-14,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,,2
+Q-052,Q-052-15,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022, Pasal 8",0,,,3,,,,4,,,
+Q-052,Q-052-16,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,4,
+Q-052,Q-052-17,"PERATURAN PEMERINTAH Nomor 10 Tahun 1983, Pasal 4",0,,,,1,,,,,,
+Q-052,Q-052-18,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,1,,
+Q-052,Q-052-19,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 24",0,,,5,,,,,,,
+Q-052,Q-052-20,"Peraturan Pemerintah Nomor 45 Tahun 1990, Pasal I",0,,,,2,,,,,,
+Q-052,Q-052-21,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,5,1
+Q-052,Q-052-22,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2020,0,,,,,,1,2,4,3,3
+Q-052,Q-052-23,SURAT EDARAN BUPATI SUMENEP Nomor 41 Tahun 2025,0,,,,,,,,3,,
+Q-052,Q-052-24,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021, Pasal 8",0,,,2,,,5,3,,,
+Q-052,Q-052-25,"PERATURAN PEMERINTAH Nomor 10 Tahun 1983, Pasal 20",1,,,,,1,,,,,
+Q-052,Q-052-26,"Undang-Undang Nomor 11 Tahun 1969, Pasal 12",0,,,,5,,,,,,
+Q-052,Q-052-27,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,1,
+Q-052,Q-052-28,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 17",0,,,4,,,,,,,
+Q-053,Q-053-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,,2
+Q-053,Q-053-02,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI REPUBLIK INDONESIA Nomor 20 Tahun 2025, Pasal I",0,,,2,2,1,3,3,,,
+Q-053,Q-053-03,"Peraturan Menteri Kementerian Dalam Negeri Nomor 58 Tahun 2019, Pasal 4",0,,,4,1,,,,,,
+Q-053,Q-053-04,Peraturan Badan Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,2,,
+Q-053,Q-053-05,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,,,,,,,4,
+Q-053,Q-053-06,Peraturan Badan Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,1,,
+Q-053,Q-053-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,,,,,,,,,5,
+Q-053,Q-053-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 53",0,,,,4,3,,,,,
+Q-053,Q-053-09,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 8G",0,,,,,,5,5,,3,
+Q-053,Q-053-10,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,2,2,,,
+Q-053,Q-053-11,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,,,,,,,,,,4
+Q-053,Q-053-12,SURAT EDARAN BUPATI SUMENEP Nomor 41 Tahun 2025,0,,,,,,,,5,,
+Q-053,Q-053-13,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 33",0,,,1,3,2,4,4,,,
+Q-053,Q-053-14,Surat Edaran Menteri Dalam Negeri Republik Indonesia Nomor 800.1.5/3349/SJ Tahun 2026,0,,,,5,,1,1,3,1,
+Q-053,Q-053-15,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,,5
+Q-053,Q-053-16,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 12",0,,,5,,,,,,,
+Q-053,Q-053-17,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 1",0,,,,,5,,,,,
+Q-053,Q-053-18,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,,,,,,,,,,1
+Q-053,Q-053-19,"PERATURAN PRESIDEN Nomor 116 Tahun 2022, Pasal 23",1,,,,,4,,,,,
+Q-053,Q-053-20,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2020,0,,,3,,,,,4,2,3
+Q-054,Q-054-01,"Peraturan Lembaga Administrasi Negara Lembaga Administrasi Negara Nomor 1 Tahun 2021, Pasal 28",0,,,,,,,,,,1
+Q-054,Q-054-02,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 9",0,,,,4,,3,3,,,5
+Q-054,Q-054-03,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",0,,,,1,,5,4,5,,
+Q-054,Q-054-04,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 6",0,,,4,,,,,,,
+Q-054,Q-054-05,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 8",1,,,,2,4,1,1,,3,4
+Q-054,Q-054-06,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 6 Tahun 2024, Pasal 1",0,,,,,,,,,2,
+Q-054,Q-054-07,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 1",1,,,5,,3,,,,,
+Q-054,Q-054-08,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 21",1,,,3,,5,,,,,
+Q-054,Q-054-09,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,5,,,,,,
+Q-054,Q-054-10,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 14",1,,,1,,2,,,,,2
+Q-054,Q-054-11,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 29",0,,,,,,,,4,,
+Q-054,Q-054-12,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 13",1,,,2,,1,,,,,
+Q-054,Q-054-13,Peraturan Badan Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,2,,
+Q-054,Q-054-14,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,4,5,,1,
+Q-054,Q-054-15,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,,,,,,,,3,,
+Q-054,Q-054-16,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021, Pasal 1",0,,,,,,,,,5,
+Q-054,Q-054-17,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 1",0,,,,3,,,,,4,
+Q-054,Q-054-18,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 38",0,,,,,,2,2,,,3
+Q-054,Q-054-19,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 8",0,,,,,,,,1,,
+Q-055,Q-055-01,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,2,1,,,,,
+Q-055,Q-055-02,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 311",2,,,1,,,2,1,1,2,1
+Q-055,Q-055-03,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 78",0,,,,,5,1,4,2,3,2
+Q-055,Q-055-04,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,1,2,,,,,
+Q-055,Q-055-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 8",1,,,,3,,,,,,
+Q-055,Q-055-06,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 315",1,,,5,,,,,,,
+Q-055,Q-055-07,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 334",0,,,3,,,,,,,
+Q-055,Q-055-08,"Peraturan Pemerintah Nomor 17 Tahun 2020, Pasal I",1,,,4,,,,5,5,,
+Q-055,Q-055-09,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,,,,,,4
+Q-055,Q-055-10,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 80",0,,,,,,3,3,4,5,5
+Q-055,Q-055-11,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,,,,,,,3
+Q-055,Q-055-12,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 5",0,,,,,4,,,,,
+Q-055,Q-055-13,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 316",1,,,2,,,4,2,,,
+Q-055,Q-055-14,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,,,,5,,,,,,
+Q-055,Q-055-15,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,0,,,,4,,,,,,
+Q-055,Q-055-16,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 310",1,,,,,,,,,1,
+Q-055,Q-055-17,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 9",0,,,,,3,5,,3,4,
+Q-056,Q-056-01,"Peraturan Pemerintah Nomor 94 Tahun 2021, Pasal 39",0,,,,4,,,,,,
+Q-056,Q-056-02,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 9",0,,,3,,,,,,,
+Q-056,Q-056-03,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI REPUBLIK INDONESIA Nomor 20 Tahun 2025, Pasal I",0,,,,,,1,1,,,
+Q-056,Q-056-04,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 12",0,,,4,2,3,5,5,,,
+Q-056,Q-056-05,"Undang-Undang Nomor 11 Tahun 1969, Pasal 12",0,,,,,,3,4,,,4
+Q-056,Q-056-06,Peraturan Badan Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,,,5
+Q-056,Q-056-07,"Peraturan Menteri Kementerian Dalam Negeri Nomor 58 Tahun 2019, Pasal 4",0,,,,,4,,,,,
+Q-056,Q-056-08,"Undang-Undang Nomor 11 Tahun 1969, Pasal 22",0,,,2,,2,,,1,1,
+Q-056,Q-056-09,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,,,3
+Q-056,Q-056-10,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,1,,,1,,1,,,,,
+Q-056,Q-056-11,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 8G",0,,,,,,2,2,,,
+Q-056,Q-056-12,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2019,0,,,,5,,,,,,
+Q-056,Q-056-13,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,1,5,4,3,,,2
+Q-056,Q-056-14,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 18",0,,,5,,,,,,,
+Q-056,Q-056-15,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 12",0,,,,,,,,2,2,
+Q-056,Q-056-16,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,,,,,,,,,,1
+Q-056,Q-056-17,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 30",0,,,,3,,,,,,
+Q-057,Q-057-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,,,1
+Q-057,Q-057-02,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,2,1,,,,,
+Q-057,Q-057-03,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,0,,,,,,5,,,,
+Q-057,Q-057-04,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,3,,,,,,,
+Q-057,Q-057-05,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,1,2,,,,,
+Q-057,Q-057-06,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,2,,,,,,,
+Q-057,Q-057-07,Keputusan Kepala Badan Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia Kabupaten Sumenep Nomor 188 Tahun 2021,0,,,,3,,2,2,3,4,
+Q-057,Q-057-08,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 32",0,,,,,,,,2,3,
+Q-057,Q-057-09,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,,,,5,,,,,,
+Q-057,Q-057-10,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,4,4,4,,4
+Q-057,Q-057-11,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,3,,,,,
+Q-057,Q-057-12,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 40",0,,,1,,,,,,,
+Q-057,Q-057-13,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,,,,4,,,,,,
+Q-057,Q-057-14,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,3,3,5,,2
+Q-057,Q-057-15,Keputusan Kepala Badan Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia Kabupaten Sumenep Nomor 188 Tahun 2021,0,,,,,,1,1,1,1,
+Q-057,Q-057-16,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,,5,3
+Q-057,Q-057-17,Surat Edaran Menteri Dalam Negeri Republik Indonesia Nomor 800.1.5/3349/SJ Tahun 2026,0,,,,,,,,,2,
+Q-057,Q-057-18,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,5,,,5
+Q-057,Q-057-19,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,4,,5,,,,,
+Q-057,Q-057-20,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,5,,4,,,,,
+Q-058,Q-058-01,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,2,3,1,3,2,,,3
+Q-058,Q-058-02,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 1",1,,,,,,,,1,,
+Q-058,Q-058-03,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,1,,,4,1,3,2,3,,,1
+Q-058,Q-058-04,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 338",0,,,,,,,,,,5
+Q-058,Q-058-05,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 339",1,,,3,,5,4,4,,,
+Q-058,Q-058-06,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,1,2,2,1,1,,,2
+Q-058,Q-058-07,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 309",0,,,5,,,,,,,
+Q-058,Q-058-08,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,1,,,,4,4,,,2,1,
+Q-058,Q-058-09,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,1,,,,5,,5,5,,,4
+Q-059,Q-059-01,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,0,,,4,4,4,4,4,,,4
+Q-059,Q-059-02,Surat Edaran Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 28 Tahun 2021,0,,,,,,,,,,5
+Q-059,Q-059-03,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,0,,,2,3,3,2,2,,,2
+Q-059,Q-059-04,"Undang-Undang Nomor 20 Tahun 2023, Pasal 31",2,,,,,,,,1,,
+Q-059,Q-059-05,Peraturan Badan Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,1,,,,,,,,,1,
+Q-059,Q-059-06,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,0,,,1,1,1,1,1,,,1
+Q-059,Q-059-07,SURAT EDARAN KEPALA BADAN KEPEGAWAIAN NEGARA Nomor 1 Tahun 2023,0,,,5,5,5,5,5,,,
+Q-059,Q-059-08,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,3,2,2,3,3,,,3
+Q-060,Q-060-01,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 7",1,,,1,,1,1,1,,5,
+Q-060,Q-060-02,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 2",0,,,,,,,,5,,
+Q-060,Q-060-03,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 20",0,,,,,,,,2,2,2
+Q-060,Q-060-04,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 1",1,,,,4,,4,,,,
+Q-060,Q-060-05,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,1,,,,,,,5,,,
+Q-060,Q-060-06,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 1",0,,,,5,,,,,,
+Q-060,Q-060-07,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,0,,,2,,5,3,2,,,5
+Q-060,Q-060-08,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 2",0,,,,,,,,,,1
+Q-060,Q-060-09,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,0,,,,1,3,,,,,
+Q-060,Q-060-10,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 8",0,,,,2,2,2,3,,,
+Q-060,Q-060-11,"Peraturan Menteri Kementerian Pendayayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2026, Pasal 4",0,,,5,,,5,4,4,4,3
+Q-060,Q-060-12,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,1,,,4,,,,,,,
+Q-060,Q-060-13,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,1,,,,,,,,3,3,4
+Q-060,Q-060-14,Keputusan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun 2025,0,,,3,3,4,,,1,1,
+Q-061,Q-061-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,1,,,,4,,,,,,
+Q-061,Q-061-02,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,,,,,,,2
+Q-061,Q-061-03,Keputusan Bupati BUPATI SUMENEP Nomor 335 Tahun 2025,0,,,,5,,,,,,
+Q-061,Q-061-04,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,1,,,,,,5,5,,4,
+Q-061,Q-061-05,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,,,5,,,,,
+Q-061,Q-061-06,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 309",1,,,,,,,,5,,
+Q-061,Q-061-07,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 6 Tahun 2024, Pasal 8",0,,,,,,,,,,3
+Q-061,Q-061-08,SURAT EDARAN KEPALA BADAN KEPEGAWAIAN NEGARA Nomor 1 Tahun 2023,0,,,1,,4,4,4,,,
+Q-061,Q-061-09,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,,,,,,,1
+Q-061,Q-061-10,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 310",2,,,4,,,,,4,3,
+Q-061,Q-061-11,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 4",2,,,,,,,,3,2,
+Q-061,Q-061-12,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,1,,,,,,,,,5,
+Q-061,Q-061-13,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 13",2,,,,,,,,2,,
+Q-061,Q-061-14,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 77",2,,,,,,,,1,1,
+Q-061,Q-061-15,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,2,3,2,1,1,,,4
+Q-061,Q-061-16,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,2,,,5,2,3,2,3,,,
+Q-061,Q-061-17,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,3,1,1,3,2,,,5
+Q-062,Q-062-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,0,0,0,,1,3,,5,,,
+Q-062,Q-062-02,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 5",1,1,1,4,,,,,,,
+Q-062,Q-062-03,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 312",0,0,0,,,,,,,,5
+Q-062,Q-062-04,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,0,0,,,,5,,,,
+Q-062,Q-062-05,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 79",0,0,0,,,,,,,,4
+Q-062,Q-062-06,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 2",0,0,1,,,,,,3,,
+Q-062,Q-062-07,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 7",2,2,2,2,,1,3,2,,,2
+Q-062,Q-062-08,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,0,0,,2,,,,,,
+Q-062,Q-062-09,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 310",0,0,1,,,,,,,3,
+Q-062,Q-062-10,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,0,0,,3,,,,,,
+Q-062,Q-062-11,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 309",0,0,0,,,,,,2,,
+Q-062,Q-062-12,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021, Pasal 39",0,0,0,,,,,,5,,
+Q-062,Q-062-13,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,0,0,0,,,,4,4,,,
+Q-062,Q-062-14,SURAT EDARAN BUPATI SUMENEP Nomor 41 Tahun 2025,0,0,0,,,,,,,5,
+Q-062,Q-062-15,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 20",0,0,1,5,4,4,,,,,
+Q-062,Q-062-16,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 13",0,0,0,,,,,,4,2,
+Q-062,Q-062-17,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 314",1,2,1,3,,5,2,3,,4,1
+Q-062,Q-062-18,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 313",2,2,2,1,5,2,1,1,1,1,3
+Q-063,Q-063-01,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,5,,
+Q-063,Q-063-02,SURAT EDARAN KEPALA BADAN KEPEGAWAIAN NEGARA Nomor 1 Tahun 2023,0,,,,5,5,,,,,
+Q-063,Q-063-03,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,4,,,,
+Q-063,Q-063-04,"Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022, Pasal 35",1,,,,,3,,,,,
+Q-063,Q-063-05,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,,3,
+Q-063,Q-063-06,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 26 Tahun 2019,0,,,,,,,,,,4
+Q-063,Q-063-07,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,,4,
+Q-063,Q-063-08,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 1",0,,,,3,,,,,,
+Q-063,Q-063-09,"Peraturan Pemerintah Nomor 30 Tahun 2019, Pasal 1",0,,,,2,,,,,,
+Q-063,Q-063-10,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2020,0,,,5,,,,,3,,
+Q-063,Q-063-11,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2020,0,,,,,,3,3,,,
+Q-063,Q-063-12,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 53",0,,,2,,,,,,,
+Q-063,Q-063-13,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,,,,,1
+Q-063,Q-063-14,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,,,3,,,,,,,
+Q-063,Q-063-15,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 12",0,,,,,,,5,,,
+Q-063,Q-063-16,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2019,0,,,,,,,,,,2
+Q-063,Q-063-17,"Peraturan Pemerintah Nomor 30 Tahun 2019, Pasal 60",0,,,,4,2,5,4,,,
+Q-063,Q-063-18,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 10",0,,,4,,4,1,2,,,
+Q-063,Q-063-19,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,2,2,
+Q-063,Q-063-20,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,1,1,
+Q-063,Q-063-21,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,0,,,,,,,,,,5
+Q-063,Q-063-22,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,,,,,3
+Q-063,Q-063-23,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 13",1,,,1,1,1,2,1,4,5,
+Q-064,Q-064-01,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,,,,,,,,3
+Q-064,Q-064-02,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,1,,,,4,4,,5,,,
+Q-064,Q-064-03,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 55",1,,,,2,2,,,,,
+Q-064,Q-064-04,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 27",1,,,,,,,,,,2
+Q-064,Q-064-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 2 Tahun 2025, Pasal 2",1,,,,,,,,3,3,
+Q-064,Q-064-06,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 33",1,,,,,,5,,,,4
+Q-064,Q-064-07,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,1,,,4,,,,,,,
+Q-064,Q-064-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 19",1,,,,3,,4,4,,,
+Q-064,Q-064-09,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 29",2,,,,,3,,,,,
+Q-064,Q-064-10,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 31",1,,,2,,,3,3,1,1,1
+Q-064,Q-064-11,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,1,,,1,5,5,1,1,5,5,
+Q-064,Q-064-12,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 25",1,,,,,,,,,,5
+Q-064,Q-064-13,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,1,,,,,,,,4,4,
+Q-064,Q-064-14,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 30",1,,,3,1,1,2,2,,,
+Q-064,Q-064-15,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,1,,,5,,,,,2,2,
+Q-065,Q-065-01,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2019,1,1,,,,5,,,,,
+Q-065,Q-065-02,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 6 Tahun 2024, Pasal 1",0,0,,,5,,,,,,
+Q-065,Q-065-03,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,1,1,,2,,,,5,,,
+Q-065,Q-065-04,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,1,1,,,,,5,2,,,
+Q-065,Q-065-05,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2019,1,2,,,,,2,4,,,
+Q-065,Q-065-06,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2019,1,1,,,,,,,4,,
+Q-065,Q-065-07,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 131",1,1,,5,,,,,1,,
+Q-065,Q-065-08,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 5",1,1,,,,,,,,1,5
+Q-065,Q-065-09,"Peraturan Pemerintah Nomor 17 Tahun 2020, Pasal I",1,1,,3,2,1,1,1,3,5,2
+Q-065,Q-065-10,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 117",1,1,,,,,3,,,,
+Q-065,Q-065-11,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2019,0,0,,,3,,,,,,
+Q-065,Q-065-12,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2019,1,1,,,,2,,,,,
+Q-065,Q-065-13,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,0,,,,,,,,4,4
+Q-065,Q-065-14,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2019,1,2,,,1,3,,,,,
+Q-065,Q-065-15,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 107",1,1,,,4,,4,,5,,3
+Q-065,Q-065-16,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,1,1,,,,,,,,3,
+Q-065,Q-065-17,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 132",1,1,,,,4,,,,,
+Q-065,Q-065-18,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,2,1,,1,,,,3,,,
+Q-065,Q-065-19,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,2,1,,,,,,,,,1
+Q-065,Q-065-20,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,0,,4,,,,,,,
+Q-065,Q-065-21,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,1,1,,,,,,,2,2,
+Q-066,Q-066-01,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 23",0,,,5,,5,,,,,
+Q-066,Q-066-02,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 4 Tahun 2025, Pasal 3",0,,,,,,,,,,2
+Q-066,Q-066-03,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 26",0,,,,3,2,,,5,,
+Q-066,Q-066-04,Surat Edaran Badan Kepegawaian Negara Nomor 3 Tahun 2025,0,,,4,,,,,2,1,
+Q-066,Q-066-05,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,0,,,3,2,3,1,1,,,
+Q-066,Q-066-06,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 39",1,,,,,,,,,,5
+Q-066,Q-066-07,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,0,,,,,,5,5,,,
+Q-066,Q-066-08,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,4,3,
+Q-066,Q-066-09,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,1,,,,,,,,,4,4
+Q-066,Q-066-10,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,0,,,,4,,3,4,,,3
+Q-066,Q-066-11,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,0,,,,,,,,1,,
+Q-066,Q-066-12,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 21",1,,,,,,,,,5,
+Q-066,Q-066-13,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 62",0,,,,5,,,,,,
+Q-066,Q-066-14,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 55",0,,,1,1,1,4,2,3,2,
+Q-066,Q-066-15,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,1,,,,,,,,,,1
+Q-066,Q-066-16,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 19",2,,,2,,4,2,3,,,
+Q-067,Q-067-01,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 19",1,,,,5,,,,5,5,
+Q-067,Q-067-02,Surat Edaran Badan Kepegawaian Negara Nomor 10 Tahun 2024,0,,,5,,,,,,,
+Q-067,Q-067-03,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 20",1,,,4,,5,5,4,,,
+Q-067,Q-067-04,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 29",1,,,,3,,4,5,4,4,5
+Q-067,Q-067-05,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 81",1,,,,,4,,,,,
+Q-067,Q-067-06,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,1,,,,,,,,,,3
+Q-067,Q-067-07,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 7",1,,,1,2,1,1,1,1,1,2
+Q-067,Q-067-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 11",2,,,2,1,2,2,2,3,3,4
+Q-067,Q-067-09,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 30",2,,,3,4,3,3,3,2,2,1
+Q-068,Q-068-01,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 21",1,,,,,,,5,,,
+Q-068,Q-068-02,Keputusan Kepala Badan Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia Kabupaten Sumenep Nomor 188 Tahun 2021,1,,,,1,,,,,,
+Q-068,Q-068-03,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 24",1,,,3,,5,,,3,3,4
+Q-068,Q-068-04,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 44",0,,,,,,,,,,2
+Q-068,Q-068-05,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 41",2,,,5,,3,,,,,
+Q-068,Q-068-06,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 16",0,,,,,,5,,,,
+Q-068,Q-068-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,,,1
+Q-068,Q-068-08,"Peraturan Pemerintah Nomor 17 Tahun 2020, Pasal I",0,,,,,,,,,5,
+Q-068,Q-068-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 25",1,,,2,,2,,4,1,1,5
+Q-068,Q-068-10,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 1",1,,,,5,,,,,,
+Q-068,Q-068-11,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 22",1,,,4,2,,3,3,,,
+Q-068,Q-068-12,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,,,,4,,,,,,
+Q-068,Q-068-13,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 23",1,,,1,,1,2,1,,,
+Q-068,Q-068-14,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,1,,,,,,4,,,,
+Q-068,Q-068-15,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 12",0,,,,,,,,4,4,
+Q-068,Q-068-16,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,,,3
+Q-068,Q-068-17,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020, Pasal 49",0,,,,3,4,1,2,2,2,
+Q-069,Q-069-01,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 360",0,,,,,,,,,,1
+Q-069,Q-069-02,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 8",0,,,1,,,,,,,2
+Q-069,Q-069-03,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 314",1,,,,,4,,,,,
+Q-069,Q-069-04,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 7",2,,,4,,1,,4,2,2,
+Q-069,Q-069-05,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,0,,,,,,,,,,3
+Q-069,Q-069-06,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,4,,,,,,
+Q-069,Q-069-07,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,5,,,,,,
+Q-069,Q-069-08,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 313",2,,,3,,3,4,2,1,1,
+Q-069,Q-069-09,SURAT EDARAN KEPALA BADAN KEPEGAWAIAN NEGARA Nomor 1 Tahun 2023,0,,,2,,,,,,,
+Q-069,Q-069-10,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 9",0,,,,,,2,5,,,
+Q-069,Q-069-11,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,3,,,,4,4,
+Q-069,Q-069-12,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 78",1,,,,,,,,,5,
+Q-069,Q-069-13,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 22",0,,,,,5,,,,,
+Q-069,Q-069-14,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,2,,,,3,3,
+Q-069,Q-069-15,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,5,,5,,
+Q-069,Q-069-16,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 311",1,,,,,,,,,,4
+Q-069,Q-069-17,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 316",1,,,,,,,,,,5
+Q-069,Q-069-18,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,,,,,,1,1,,,
+Q-069,Q-069-19,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,1,,,5,1,2,3,3,,,
+Q-070,Q-070-01,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,4,5,5,,1
+Q-070,Q-070-02,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,1,,,,,,,,,,2
+Q-070,Q-070-03,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,4,2,,,,,
+Q-070,Q-070-04,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 26 Tahun 2019,0,,,,,,,,,,3
+Q-070,Q-070-05,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,2,3,
+Q-070,Q-070-06,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI REPUBLIK INDONESIA Nomor 20 Tahun 2025, Pasal I",0,,,,5,,,,,,
+Q-070,Q-070-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,,,,,,,,4,,
+Q-070,Q-070-08,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,2,
+Q-070,Q-070-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2021, Pasal 7",0,,,,,,,,,,4
+Q-070,Q-070-10,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,4,,,2,2,,,
+Q-070,Q-070-11,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,5,,,,
+Q-070,Q-070-12,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,2,,,,,,
+Q-070,Q-070-13,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,,5
+Q-070,Q-070-14,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,4,,,,,
+Q-070,Q-070-15,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,5,,,,4,,,
+Q-070,Q-070-16,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 1",0,,,,3,,,,,,
+Q-070,Q-070-17,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,3,,,,,
+Q-070,Q-070-18,"PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017, Pasal 1",0,,,,1,,,,,,
+Q-070,Q-070-19,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,1,,,2,,,,,,,
+Q-070,Q-070-20,Peraturan Presiden Nomor 38 Tahun 2020,0,,,3,,1,,,1,1,
+Q-070,Q-070-21,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,4,
+Q-070,Q-070-22,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2020,0,,,,,,3,3,,,
+Q-070,Q-070-23,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,5,,,,,
+Q-070,Q-070-24,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,,,1,,,1,1,3,5,
+Q-071,Q-071-01,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,,1,,5,,,,
+Q-071,Q-071-02,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,5,3,4,3,3,,,5
+Q-071,Q-071-03,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 32",0,,,3,,5,,4,,,
+Q-071,Q-071-04,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 7",0,,,4,,3,,,,,3
+Q-071,Q-071-05,Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026,0,,,,5,,4,5,,,4
+Q-071,Q-071-06,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 17",2,,,1,2,1,1,1,2,2,1
+Q-071,Q-071-07,"Peraturan Bupati Bupati Sumenep Nomor 15 Tahun 2026, Pasal I",2,,,2,4,2,2,2,1,1,2
+Q-072,Q-072-01,Surat Edaran Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 28 Tahun 2021,0,,,,1,,,,,,
+Q-072,Q-072-02,Surat Edaran Menteri Dalam Negeri Republik Indonesia Nomor 800.1.5/3349/SJ Tahun 2026,0,,,,,,3,4,2,2,
+Q-072,Q-072-03,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,,,,,,,,2
+Q-072,Q-072-04,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 40",0,,,,,4,,,,,
+Q-072,Q-072-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 26 Tahun 2019, Pasal 26",0,,,5,,,2,2,,,1
+Q-072,Q-072-06,Surat Edaran Badan Kepegawaian Negara Nomor 15 Tahun 2024,0,,,,4,,,,,,
+Q-072,Q-072-07,Keputusan Kepala Badan Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia Kabupaten Sumenep Nomor 188 Tahun 2021,0,,,,,,,,4,,
+Q-072,Q-072-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 26 Tahun 2019, Pasal 14",0,,,4,,,,,1,,4
+Q-072,Q-072-09,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,,,3,,,,,,,
+Q-072,Q-072-10,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 42",1,,,,,2,,,,,
+Q-072,Q-072-11,"Undang-Undang Nomor 20 Tahun 2023, Pasal 49",1,,,,,3,,,,,
+Q-072,Q-072-12,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 13",0,,,1,,,1,1,,1,
+Q-072,Q-072-13,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 6 Tahun 2024, Pasal 43",0,,,,,,4,3,,,
+Q-072,Q-072-14,Surat Edaran Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 28 Tahun 2021,0,,,2,,,,,,,
+Q-072,Q-072-15,"PERATURAN PRESIDEN Nomor 116 Tahun 2022, Pasal 24",0,,,,,,5,5,,,
+Q-072,Q-072-16,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 1",0,,,,2,,,,,,
+Q-072,Q-072-17,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 26 Tahun 2019, Pasal 44",0,,,,,,,,,3,5
+Q-072,Q-072-18,Surat Edaran Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 28 Tahun 2021,0,,,,5,,,,,,
+Q-072,Q-072-19,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 10 Tahun 2021,0,,,,,,,,5,,
+Q-072,Q-072-20,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI REPUBLIK INDONESIA Nomor 20 Tahun 2025, Pasal I",1,,,,3,,,,,,
+Q-072,Q-072-21,SURAT EDARAN KEPALA BADAN KEPEGAWAIAN NEGARA Nomor 1 Tahun 2023,0,,,,,,,,3,5,
+Q-072,Q-072-22,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 1",0,,,,,,,,,,3
+Q-072,Q-072-23,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 41",2,,,,,1,,,,,
+Q-072,Q-072-24,"Peraturan Menteri Kementerian Dalam Negeri Nomor 122 Tahun 2017, Pasal 33",0,,,,,,,,,4,
+Q-072,Q-072-25,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 209",0,,,,,5,,,,,
+Q-073,Q-073-01,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 1",0,,,5,2,3,3,2,1,1,
+Q-073,Q-073-02,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 1",0,,,,,,,,3,3,
+Q-073,Q-073-03,"Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022, Pasal 1",0,,,,5,,,,,5,
+Q-073,Q-073-04,"Peraturan Bupati Bupati Sumenep Nomor 14 Tahun 2026, Pasal 1",0,,,,3,5,2,4,4,4,1
+Q-073,Q-073-05,"Peraturan Bupati BUPATI SUMENEP Nomor 38 Tahun 2021, Pasal 1",0,,,3,4,2,1,1,2,2,3
+Q-073,Q-073-06,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 45",0,,,2,,4,5,3,,,
+Q-073,Q-073-07,"Peraturan Bupati Bupati Sumenep Nomor 40 Tahun 2021, Pasal 4",0,,,,,,4,,,,5
+Q-073,Q-073-08,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 26",0,,,4,,,,,,,
+Q-073,Q-073-09,"Peraturan Bupati BUPATI SUMENEP Nomor 78 Tahun 2022, Pasal 1",0,,,1,1,1,,5,5,,2
+Q-073,Q-073-10,"Peraturan Bupati Bupati Sumenep Nomor 22 Tahun 2019, Pasal 8",0,,,,,,,,,,4
+Q-074,Q-074-01,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 78",0,,,,,,5,,1,2,3
+Q-074,Q-074-02,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 323",0,,,,,,,,5,,
+Q-074,Q-074-03,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 333",1,,,5,,,,,,,
+Q-074,Q-074-04,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 313",1,,,,,,,,,,4
+Q-074,Q-074-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 9",0,,,,,3,,,,5,
+Q-074,Q-074-06,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 311",2,,,1,,,4,2,3,,1
+Q-074,Q-074-07,"Peraturan Pemerintah Nomor 17 Tahun 2020, Pasal I",0,,,4,,,,5,,,
+Q-074,Q-074-08,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,0,,,,4,,,,,,
+Q-074,Q-074-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 7",1,,,,,,,,,,5
+Q-074,Q-074-10,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,,,2,4,,,
+Q-074,Q-074-11,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,0,,,,,,,,,,2
+Q-074,Q-074-12,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,,,1,3,,,
+Q-074,Q-074-13,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 5",0,,,,,,,,,1,
+Q-074,Q-074-14,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 315",0,,,3,,,,,,,
+Q-074,Q-074-15,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,2,2,,,,,
+Q-074,Q-074-16,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 93",0,,,,5,4,,,,,
+Q-074,Q-074-17,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,,3,,,,,,
+Q-074,Q-074-18,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 80",0,,,,,5,,,2,3,
+Q-074,Q-074-19,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 316",0,,,2,,,3,1,4,,
+Q-074,Q-074-20,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,1,,,,1,1,,,,,
+Q-074,Q-074-21,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,0,,,,,,,,,4,
+Q-075,Q-075-01,Keputusan Bupati BUPATI SUMENEP Nomor 335 Tahun 2025,1,,,1,2,1,5,1,2,1,1
+Q-075,Q-075-02,"Peraturan Bupati Bupati Sumenep Nomor 41 Tahun 2022, Pasal 1",0,,,,,,,,1,,
+Q-075,Q-075-03,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 17",0,,,,,,,,,,5
+Q-075,Q-075-04,Keputusan Bupati BUPATI SUMENEP Nomor 335 Tahun 2025,1,,,,,,,,,2,
+Q-075,Q-075-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 2",0,,,,,,,,4,,
+Q-075,Q-075-06,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 1",0,,,,5,,,,,,
+Q-075,Q-075-07,Keputusan Bupati BUPATI SUMENEP Nomor 335 Tahun 2025,1,,,2,3,2,3,3,,4,
+Q-075,Q-075-08,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 46",0,,,,4,,4,5,5,3,
+Q-075,Q-075-09,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,0,,,4,1,3,1,2,,5,4
+Q-075,Q-075-10,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022, Pasal 6",0,,,,,5,,,,,3
+Q-075,Q-075-11,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 15",0,,,5,,,,,,,
+Q-075,Q-075-12,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 309",0,,,,,,,,3,,
+Q-075,Q-075-13,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 7 Tahun 2022,0,,,3,,4,2,4,,,2
+Q-076,Q-076-01,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,,,,3,3,,,,,5
+Q-076,Q-076-02,Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2023,0,,,,4,5,,,,,
+Q-076,Q-076-03,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,4,1,1,3,4,1,2,4
+Q-076,Q-076-04,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,3,,,1,2,,,2
+Q-076,Q-076-05,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,5,2,2,4,3,2,1,3
+Q-076,Q-076-06,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 76",0,,,,,4,,,,,
+Q-076,Q-076-07,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 7 Tahun 2021,0,,,,5,,5,5,4,4,
+Q-076,Q-076-08,"Peraturan Pemerintah Nomor 49 Tahun 2018, Pasal 78",0,,,,,,,,3,3,
+Q-076,Q-076-09,"Peraturan Pemerintah Nomor 11 Tahun 2017, Pasal 311",2,,,1,,,,,,,
+Q-076,Q-076-10,Peraturan Badan Kepegawaian Negara BADAN KEPEGAWAIAN NEGARA Nomor 24 Tahun 2017,0,,,2,,,2,1,5,5,1
+Q-077,Q-077-01,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 29",0,,,,,,4,5,,,
+Q-077,Q-077-02,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 44",1,,,,,,2,3,1,1,
+Q-077,Q-077-03,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,5,,,,,,
+Q-077,Q-077-04,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 11",0,,,,,,,,,,4
+Q-077,Q-077-05,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 40",2,,,,,2,1,1,,,
+Q-077,Q-077-06,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,0,,,,1,4,,,,,
+Q-077,Q-077-07,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 30",0,,,,3,,,,,,
+Q-077,Q-077-08,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 39",1,,,2,,,5,4,,,3
+Q-077,Q-077-09,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 10",0,,,5,,,,,,,1
+Q-077,Q-077-10,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023, Pasal 55",0,,,4,2,5,,,,,
+Q-077,Q-077-11,"Peraturan Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 16",0,,,3,,,,,,,
+Q-077,Q-077-12,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 19",0,,,1,,,3,2,,,
+Q-077,Q-077-13,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 9 Tahun 2022,1,,,,,3,,,,,
+Q-077,Q-077-14,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 7",1,,,,4,,,,,,
+Q-077,Q-077-15,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 7",0,,,,,,,,,,2
+Q-077,Q-077-16,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 15",0,,,,,,,,,,5
+Q-077,Q-077-17,"Peraturan Bupati BUPATI SUMENEP Nomor 6 Tahun 2026, Pasal 27",2,,,,,1,,,,,
+Q-078,Q-078-01,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,4,4,,4,
+Q-078,Q-078-02,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 15 Tahun 2019,0,,,,5,,,,,,
+Q-078,Q-078-03,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 26 Tahun 2019,0,,,3,,,2,2,,,
+Q-078,Q-078-04,"Peraturan Pemerintah Nomor 30 Tahun 2019, Pasal 1",0,,,,1,5,,,,,
+Q-078,Q-078-05,SURAT EDARAN KEPALA BADAN KEPEGAWAIAN NEGARA Nomor 1 Tahun 2023,0,,,,,1,,,,,
+Q-078,Q-078-06,Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022,0,,,,,,,5,,,
+Q-078,Q-078-07,"Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022, Pasal 35",0,,,,,3,,,,,
+Q-078,Q-078-08,"Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 3 Tahun 2020, Pasal 1",0,,,,2,4,,,,,
+Q-078,Q-078-09,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,,,,,,,,,,4
+Q-078,Q-078-10,"PERATURAN MENTERI MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI REPUBLIK INDONESIA Nomor 20 Tahun 2025, Pasal I",0,,,,4,,,,,,
+Q-078,Q-078-11,"PERATURAN LEMBAGA ADMINISTRASI NEGARA LEMBAGA ADMINISTRASI NEGARA Nomor 10 Tahun 2021, Pasal I",0,,,,,,,,2,,
+Q-078,Q-078-12,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,5,,4,2,
+Q-078,Q-078-13,Peraturan Badan Badan Kepegawaian Negara Republik Indonesia Nomor 14 Tahun 2018,0,,,,,,,,1,,
+Q-078,Q-078-14,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,3,3,3,1,
+Q-078,Q-078-15,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Republik Indonesia Nomor 26 Tahun 2019,0,,,,,,,,,,2
+Q-078,Q-078-16,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,,,5
+Q-078,Q-078-17,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,4,,,,,,,1
+Q-078,Q-078-18,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,,5,
+Q-078,Q-078-19,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,5,,,,,,,
+Q-078,Q-078-20,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,1,,,1,,,1,1,5,3,
+Q-078,Q-078-21,PERATURAN MENTERI KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI Nomor 38 Tahun 2017,0,,,,,,,,,,3
+Q-078,Q-078-22,"Peraturan Menteri Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022, Pasal 1",0,,,,3,2,,,,,
+Q-078,Q-078-23,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2020,0,,,2,,,,,,,
+Q-079,Q-079-01,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,,,,,2,3,
+Q-079,Q-079-02,Peraturan Menteri Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia Nomor 1 Tahun 2023,0,,,,,,,,5,,
+Q-079,Q-079-03,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,1,,,4,,,,,,,
+Q-079,Q-079-04,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023, Pasal 12",1,,,,,2,,,,1,
+Q-079,Q-079-05,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,2,,,1,4,3,5,3,,,
+Q-079,Q-079-06,"PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA REPUBLIK INDONESIA Nomor 12 Tahun 2022, Pasal 1",0,,,,,,,,,,5
+Q-079,Q-079-07,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,1,,,3,2,4,3,2,,,1
+Q-079,Q-079-08,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,1,,,,,,4,5,4,5,3
+Q-079,Q-079-09,Surat Edaran BADAN KEPEGAWAIAN NEGARA Nomor 9 Tahun 2024,2,,,5,1,1,2,4,1,2,4
+Q-079,Q-079-10,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,2,5,5,1,1,3,4,2
+Q-079,Q-079-11,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 3 Tahun 2023,0,,,,3,,,,,,
+Q-080,Q-080-01,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 4",0,0,2,5,,,,,,,
+Q-080,Q-080-02,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 11",1,0,2,,3,3,4,,3,3,1
+Q-080,Q-080-03,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 9",0,0,2,2,,4,5,3,,,
+Q-080,Q-080-04,"Peraturan Pemerintah Nomor 94 Tahun 2021, Pasal 2",0,0,1,3,,,,,,,
+Q-080,Q-080-05,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 6",1,1,2,,4,,3,4,1,1,3
+Q-080,Q-080-06,Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022,0,0,1,,,,,,,,4
+Q-080,Q-080-07,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 1",0,0,0,,5,,,,,,
+Q-080,Q-080-08,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 10",1,0,2,1,1,2,1,1,4,4,2
+Q-080,Q-080-09,PERATURAN BADAN KEPEGAWAIAN NEGARA BADAN KEPEGAWAIAN NEGARA Nomor 3 Tahun 2020,0,0,1,,,,,,,,5
+Q-080,Q-080-10,"Peraturan Badan Kepegawaian Negara Badan Kepegawaian Negara Nomor 6 Tahun 2022, Pasal 7",1,1,1,,,5,,,,,
+Q-080,Q-080-11,"Peraturan Pemerintah Nomor 94 Tahun 2021, Pasal 12",0,0,2,,,,,5,,,
+Q-080,Q-080-12,"Peraturan Pemerintah Nomor 94 Tahun 2021, Pasal 5",1,1,2,4,2,1,2,2,2,2,

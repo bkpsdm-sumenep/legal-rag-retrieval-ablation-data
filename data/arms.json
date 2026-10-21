@@ -1,0 +1,87 @@
+{
+  "Baseline": {
+    "description": "dense only, no rewriting (H1 baseline)",
+    "items": "all",
+    "run_id": "aaf6360b-732f-4876-ac08-8ed29f0d3122"
+  },
+  "Treatment": {
+    "description": "rewriting + hybrid BM25, RRF 1:1 k=60 (H1 treatment)",
+    "items": "all",
+    "run_id": "3b786933-0db5-440c-8062-5092c5295a7e"
+  },
+  "X0": {
+    "description": "repeat of the baseline (run-to-run variation)",
+    "items": "all",
+    "run_id": "82c878c3-bac0-4b57-8a7c-51004fe17629"
+  },
+  "X1": {
+    "description": "rewriting only (dense)",
+    "items": "all",
+    "run_id": "973bc6e2-3b80-42e8-b9b4-8a560ea93020"
+  },
+  "X2": {
+    "description": "hybrid BM25 only, RRF 1:1 k=60, no rewriting",
+    "items": "all",
+    "run_id": "3eac9e30-0630-4348-bf8e-082dac2c7cd5"
+  },
+  "X3": {
+    "description": "rewriting + hybrid BM42, RRF 1:1 k=60",
+    "items": "all",
+    "run_id": "ccb68913-29e9-479c-a27f-419c4414eaaa"
+  },
+  "F0": {
+    "description": "stage 2: hybrid BM25 RRF 1:1 k=60",
+    "items": "dev",
+    "run_id": "a0b5e08f-bdbe-4821-94ff-f8b038e8132d"
+  },
+  "F1": {
+    "description": "stage 2: hybrid BM25 RRF 3:1 k=60",
+    "items": "dev",
+    "run_id": "bae82214-c940-4f47-9991-be5f2d4138ef"
+  },
+  "F2": {
+    "description": "stage 2: hybrid BM25 RRF 13:7 k=60",
+    "items": "dev",
+    "run_id": "09a11f04-35b5-42ee-830d-b2458d123da8"
+  },
+  "F3": {
+    "description": "stage 2: hybrid BM25 RRF 1:1 k=2",
+    "items": "dev",
+    "run_id": "0b6cf996-8516-4b04-85a3-1ba8485138cb"
+  },
+  "R1": {
+    "description": "stage 2: dense + fine-tuned IndoBERT reranker (threshold 0.6)",
+    "items": "dev",
+    "run_id": "c7ba3457-5f89-459a-8211-dd614e61f3fa"
+  },
+  "R2": {
+    "description": "stage 2: F1 + fine-tuned IndoBERT reranker (threshold 0.6)",
+    "items": "dev",
+    "run_id": "53563d37-8b51-4b41-b5c1-b86b74bdecb8"
+  },
+  "R3": {
+    "description": "stage 2: F1 + generic mMiniLM reranker (no threshold)",
+    "items": "dev",
+    "run_id": "bfd416e1-8718-458a-99fb-306b27ab8b0e"
+  },
+  "P0": {
+    "description": "full pipeline as originally used by the chatbot: rewriting + BM42, RRF 13:7 (Qdrant default k) + IndoBERT",
+    "items": "all",
+    "run_id": "4c341c22-f572-45bc-bf98-86a4070a6d40"
+  },
+  "P1": {
+    "description": "P0 with BM25",
+    "items": "all",
+    "run_id": "11d54770-f171-47da-885f-182f7c26c378"
+  },
+  "Clean-Baseline": {
+    "description": "robustness: baseline on the clean corpus, exact search",
+    "items": "in_scope",
+    "run_id": "d0a6ea1e-7b88-4ded-9fb2-81ed594b8d0d"
+  },
+  "Clean-Treatment": {
+    "description": "robustness: treatment on the clean corpus, exact search",
+    "items": "in_scope",
+    "run_id": "923f2d28-798d-4e60-9bb8-170a3c07224b"
+  }
+}

@@ -1,0 +1,119 @@
+{
+ "n_kueri_dinilai": 60,
+ "n_di_luar_cakupan": 20,
+ "arm": {
+  "Baseline": {
+   "Hit@5": 86.7,
+   "Hit@5_menjawab": 50.0,
+   "P@5": 45.7,
+   "nDCG@5": 60.4,
+   "nDCG@5_mentah": 62.5,
+   "MRR": 76.4
+  },
+  "Treatment": {
+   "Hit@5": 81.7,
+   "Hit@5_menjawab": 35.0,
+   "P@5": 39.0,
+   "nDCG@5": 46.4,
+   "nDCG@5_mentah": 49.0,
+   "MRR": 63.5,
+   "d_nDCG@5": -14.1,
+   "CI95": [
+    -23.0,
+    -5.3
+   ],
+   "p_wilcoxon": 0.0064,
+   "p_mcnemar_hit": 0.375
+  },
+  "X1": {
+   "Hit@5": 85.0,
+   "Hit@5_menjawab": 43.3,
+   "P@5": 46.0,
+   "nDCG@5": 57.7,
+   "nDCG@5_mentah": 60.8,
+   "MRR": 76.0,
+   "d_nDCG@5": -2.7,
+   "CI95": [
+    -10.8,
+    5.0
+   ],
+   "p_wilcoxon": 0.7179,
+   "p_mcnemar_hit": 1.0
+  },
+  "X2": {
+   "Hit@5": 80.0,
+   "Hit@5_menjawab": 48.3,
+   "P@5": 43.7,
+   "nDCG@5": 55.1,
+   "nDCG@5_mentah": 58.0,
+   "MRR": 68.8,
+   "d_nDCG@5": -5.3,
+   "CI95": [
+    -13.3,
+    2.4
+   ],
+   "p_wilcoxon": 0.2536,
+   "p_mcnemar_hit": 0.2188
+  },
+  "F1": {
+   "Hit@5": 80.0,
+   "Hit@5_menjawab": 48.3,
+   "P@5": 44.3,
+   "nDCG@5": 57.1,
+   "nDCG@5_mentah": 59.3,
+   "MRR": 72.6,
+   "d_nDCG@5": -3.3,
+   "CI95": [
+    -10.8,
+    3.6
+   ],
+   "p_wilcoxon": 0.5766,
+   "p_mcnemar_hit": 0.2188
+  },
+  "R1": {
+   "Hit@5": 66.7,
+   "Hit@5_menjawab": 38.3,
+   "P@5": 30.7,
+   "nDCG@5": 40.0,
+   "nDCG@5_mentah": 41.1,
+   "MRR": 61.4,
+   "d_nDCG@5": -20.4,
+   "CI95": [
+    -29.2,
+    -11.6
+   ],
+   "p_wilcoxon": 0.0001,
+   "p_mcnemar_hit": 0.0018
+  },
+  "R2": {
+   "Hit@5": 71.7,
+   "Hit@5_menjawab": 35.0,
+   "P@5": 32.3,
+   "nDCG@5": 41.8,
+   "nDCG@5_mentah": 43.9,
+   "MRR": 63.5,
+   "d_nDCG@5": -18.7,
+   "CI95": [
+    -27.5,
+    -9.7
+   ],
+   "p_wilcoxon": 0.0004,
+   "p_mcnemar_hit": 0.0352
+  },
+  "R3": {
+   "Hit@5": 78.3,
+   "Hit@5_menjawab": 36.7,
+   "P@5": 36.7,
+   "nDCG@5": 47.3,
+   "nDCG@5_mentah": 49.4,
+   "MRR": 65.3,
+   "d_nDCG@5": -13.1,
+   "CI95": [
+    -20.9,
+    -5.6
+   ],
+   "p_wilcoxon": 0.0018,
+   "p_mcnemar_hit": 0.125
+  }
+ }
+}
