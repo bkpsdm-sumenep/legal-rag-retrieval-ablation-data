@@ -69,6 +69,15 @@ d = (w["Treatment"] - w["Baseline"]).dropna()
 print(round(d.mean(), 2), wilcoxon(d).pvalue)   # -17.66, p < 0.001 (paper Table 10, main row)
 ```
 
+## Corrections
+
+**22 October 2026.** After the experiments, the reference answers of two test items were corrected because they cited provisions that had been amended or replaced:
+
+- `7dc878fb-b988-4906-957c-cd6bb2026b54` (divorce or polygamy permits for civil servants who head a state-owned enterprise or state bank): the permit is granted by the President under Government Regulation 10/1983 Article 11(3) as amended by Government Regulation 45/1990, not by the technical minister.
+- `f4396fc3-0a8c-450e-8362-d058fe3d0e64` (allowances for an employee transferred to an agency without sufficient budget): Sumenep Regent Regulation 6/2026 Article 28(2) places the allowance on the former agency until the new agency's budget is available.
+
+`data/testset.jsonl` and all scores in this repository keep the **original** reference answers, because every reported result was computed with them. Excluding the two items (N = 95) leaves the direction and significance of every main comparison unchanged; see the paper's threats-to-validity section.
+
 ## Privacy and sources
 
 - The corpus consists of 71 Indonesian civil-service regulations, which are public documents. Contexts are quoted from these regulations. Civil-servant ID numbers (NIP) appearing in regulation text are replaced with `[NIP]`.
